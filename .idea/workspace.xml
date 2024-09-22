@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="766e833a-1f59-41d6-b867-ddf0ad31c746" name="Changes" comment="Update gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/lang/en_gb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/lang/en_us.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/lobby/lobby.waiting.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/123.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/go.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/map_alert.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/map_update.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/objective_complete.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/roundend.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/score.acquired.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/score.big_coins.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/score.bigacquired.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/score.small_coins.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/small_objective_complete.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/team_eliminated.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/timer.tick_high.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/game/timer.tick_normal.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/music/game_over.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/music/game_starting.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/music/overtime.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/music/overtime_intro.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/mcc/music/round_end.ogg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2lqoUiT5WgRnwaZsZ8TkwpjM7Ye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tiddy/IdeaProjects/BurbResourcePack&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\" />
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\.idea" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="766e833a-1f59-41d6-b867-ddf0ad31c746" name="Changes" comment="" />
+      <created>1725916984755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725916984755</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Init">
+      <option name="closed" value="true" />
+      <created>1725917127695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725917127695</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update packsquash.yml">
+      <option name="closed" value="true" />
+      <created>1725917679725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725917679725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update packsquash.yml">
+      <option name="closed" value="true" />
+      <created>1725918117291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725918117291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update packsquash.yml and .gitignore">
+      <option name="closed" value="true" />
+      <created>1725918655180</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725918655180</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update packsquash.yml">
+      <option name="closed" value="true" />
+      <created>1725918776238</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725918776238</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update packsquash.yml">
+      <option name="closed" value="true" />
+      <created>1725920081636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725920081636</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update gitignore">
+      <option name="closed" value="true" />
+      <created>1725920266407</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725920266407</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <MESSAGE value="Update packsquash.yml and .gitignore" />
+    <MESSAGE value="Update packsquash.yml" />
+    <MESSAGE value="Update gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
+  </component>
+</project>

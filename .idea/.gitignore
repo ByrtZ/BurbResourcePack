@@ -1,0 +1,10 @@
+# Editors
+.idea
+/.idea
+.xml
+/.xml
+.iml
+.vscode
+# MacOS
+.DS_Store
+
