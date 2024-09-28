@@ -3,8 +3,8 @@
 		{
             "type":"bitmap",
             "file":"font/dark.png",
-            "ascent":1024,
-            "height":512,
+            "ascent":256,
+            "height":256,
             "chars":["\uD000"]
         },
 		{
