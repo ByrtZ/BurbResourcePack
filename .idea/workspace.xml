@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt fix models not loading" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Test alternative font">
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/font/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/font/default.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727627169561</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Test alternative font">
+      <option name="closed" value="true" />
+      <created>1727640478740</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1727640478741</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +160,7 @@
     <MESSAGE value="Adjust dark screen height" />
     <MESSAGE value="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound." />
     <MESSAGE value="Attempt fix models not loading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempt fix models not loading" />
+    <MESSAGE value="Test alternative font" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test alternative font" />
   </component>
 </project>
