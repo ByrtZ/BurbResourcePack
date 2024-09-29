@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/custom/blaster_texture",
-		"particle": "item/custom/blaster_texture"
+		"0": "item/blaster_texture",
+		"particle": "item/blaster_texture"
 	},
 	"elements": [
 		{
