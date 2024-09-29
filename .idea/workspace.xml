@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Test alternative font" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Remove alt font for now and removed pumpkin blur.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="2miaSZMOGG2B6PZtsv5XO0fjUbV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,6 +34,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\burb\textures\font" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\model" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\block" />
     </key>
@@ -147,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727640934531</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Remove alt font for now and removed pumpkin blur.">
+      <option name="closed" value="true" />
+      <created>1727641406616</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727641406616</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +180,7 @@
     <MESSAGE value="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound." />
     <MESSAGE value="Attempt fix models not loading" />
     <MESSAGE value="Test alternative font" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test alternative font" />
+    <MESSAGE value="Remove alt font for now and removed pumpkin blur." />
+    <option name="LAST_COMMIT_MESSAGE" value="Remove alt font for now and removed pumpkin blur." />
   </component>
 </project>
