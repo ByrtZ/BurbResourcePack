@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Move second row letters down a pixel">
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Adjust font height">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/burb/textures/font/burb_font.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/burb/textures/font/burb_font.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727642917545</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Adjust font height">
+      <option name="closed" value="true" />
+      <created>1727643413235</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1727643413235</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Adjust font height">
+      <option name="closed" value="true" />
+      <created>1727643662187</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727643662187</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +216,7 @@
     <MESSAGE value="Remove alt font for now and removed pumpkin blur." />
     <MESSAGE value="Attempt add alt font" />
     <MESSAGE value="Move second row letters down a pixel" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move second row letters down a pixel" />
+    <MESSAGE value="Adjust font height" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust font height" />
   </component>
 </project>
