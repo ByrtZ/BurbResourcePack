@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt fix models not loading">
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/blaster.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/blaster.json" afterDir="false" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound.">
       <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/golden_sword.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/golden_sword.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/soldier_helmet.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/soldier_helmet.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/zpg.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/zpg.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/blaster_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/blaster.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/helmet_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/soldier_helmet.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/zpg_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/zpg.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +101,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727624675741</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound.">
+      <option name="closed" value="true" />
+      <created>1727624988077</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727624988077</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,6 +127,7 @@
     <MESSAGE value="Added blaster sounds and temporarily removed blaster model and texture." />
     <MESSAGE value="Adjust dark screen height" />
     <MESSAGE value="Attempt fix models not loading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempt fix models not loading" />
+    <MESSAGE value="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound." />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound." />
   </component>
 </project>
