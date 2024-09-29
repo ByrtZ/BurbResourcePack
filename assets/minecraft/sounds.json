@@ -135,5 +135,17 @@
 						"name": "game/burb.game.win.zombies"
 					}
 				]
+		},
+		"burb.weapon.foot_soldier.fire": {
+			"sounds": [
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.0",
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.1",
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.2",
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.3",
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.4",
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.5",
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.6",
+					"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
+			]
 		}
 }
