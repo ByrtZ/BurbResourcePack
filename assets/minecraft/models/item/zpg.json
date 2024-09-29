@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "textures/item/zpg",
-		"particle": "textures/item/zpg"
+		"0": "item/zpg",
+		"particle": "item/zpg"
 	},
 	"elements": [
 		{
