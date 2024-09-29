@@ -138,9 +138,6 @@
 		},
 		"burb.weapon.foot_soldier.fire": {
 			"sounds": [
-				{
-					"attenuation_distance": 8
-				},
 					"weapon/foot_soldier/burb.weapon.foot_soldier.core.0",
 					"weapon/foot_soldier/burb.weapon.foot_soldier.core.1",
 					"weapon/foot_soldier/burb.weapon.foot_soldier.core.2",

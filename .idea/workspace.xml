@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound.">
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/golden_sword.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/golden_sword.json" afterDir="false" />
-    </list>
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt fix models not loading" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727624988077</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Attempt fix models not loading">
+      <option name="closed" value="true" />
+      <created>1727625398033</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727625398033</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -126,8 +131,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added blaster sounds and temporarily removed blaster model and texture." />
     <MESSAGE value="Adjust dark screen height" />
-    <MESSAGE value="Attempt fix models not loading" />
     <MESSAGE value="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound." />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound." />
+    <MESSAGE value="Attempt fix models not loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempt fix models not loading" />
   </component>
 </project>

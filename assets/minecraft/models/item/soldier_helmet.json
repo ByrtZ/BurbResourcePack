@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "model/custom/soldier_helmet",
-		"particle": "model/custom/soldier_helmet"
+		"0": "model/soldier_helmet",
+		"particle": "model/soldier_helmet"
 	},
 	"elements": [
 		{
