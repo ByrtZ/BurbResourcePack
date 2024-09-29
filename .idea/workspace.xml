@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Remove alt font for now and removed pumpkin blur.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt add alt font">
+      <change beforePath="$PROJECT_DIR$/assets/burb/textures/font/burb_font.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/burb/textures/font/burb_font.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727641406616</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Attempt add alt font">
+      <option name="closed" value="true" />
+      <created>1727642583073</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1727642583073</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,6 +189,7 @@
     <MESSAGE value="Attempt fix models not loading" />
     <MESSAGE value="Test alternative font" />
     <MESSAGE value="Remove alt font for now and removed pumpkin blur." />
-    <option name="LAST_COMMIT_MESSAGE" value="Remove alt font for now and removed pumpkin blur." />
+    <MESSAGE value="Attempt add alt font" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempt add alt font" />
   </component>
 </project>
