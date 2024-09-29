@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Adjust dark screen height">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt fix models not loading">
       <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/blaster.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/blaster.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/golden_sword.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/golden_sword.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/soldierHelmet.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/soldier_helmet.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/soldier_helmet.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/soldier_helmet.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/zpg.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/zpg.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/custom/blaster_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/blaster_texture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/custom/helmet_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/helmet_texture.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/block/custom/zpg_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/zpg_texture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/blaster_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/blaster.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/helmet_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/soldier_helmet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/zpg_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/model/custom/zpg.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,11 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\block" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727564768316</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Attempt fix models not loading">
+      <option name="closed" value="true" />
+      <created>1727624675741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727624675741</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +125,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added blaster sounds and temporarily removed blaster model and texture." />
     <MESSAGE value="Adjust dark screen height" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust dark screen height" />
+    <MESSAGE value="Attempt fix models not loading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempt fix models not loading" />
   </component>
 </project>
