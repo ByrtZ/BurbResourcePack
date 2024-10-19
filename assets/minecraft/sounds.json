@@ -10,7 +10,7 @@
 		"event.downtime.suspense": {
 				"sounds": [
 					{
-						"name": "event/downtime.loop",
+						"name": "event/downtime.suspense",
 						"stream": true
 					}
 				]

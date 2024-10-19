@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Adjust custom font numbers" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Move slash down a pixel">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,7 +200,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727646544640</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Move slash down a pixel">
+      <option name="closed" value="true" />
+      <created>1727647481436</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1727647481436</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,6 +233,7 @@
     <MESSAGE value="Move second row letters down a pixel" />
     <MESSAGE value="Adjust font height" />
     <MESSAGE value="Adjust custom font numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust custom font numbers" />
+    <MESSAGE value="Move slash down a pixel" />
+    <option name="LAST_COMMIT_MESSAGE" value="Move slash down a pixel" />
   </component>
 </project>
