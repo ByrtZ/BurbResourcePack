@@ -9,6 +9,13 @@
         },
 		{
 			"type":"bitmap",
+			"file":"font/coming_soon.png",
+			"ascent":0,
+			"height":256,
+			"chars":["\uD010"]
+		},
+		{
+			"type":"bitmap",
 			"file":"font/dev.png",
 			"ascent":7,
 			"height":7,
