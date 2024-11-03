@@ -10,7 +10,7 @@
 		{
 			"type":"bitmap",
 			"file":"font/coming_soon.png",
-			"ascent":0,
+			"ascent":128,
 			"height":256,
 			"chars":["\uD010"]
 		},

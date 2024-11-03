@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Move golden sword models to popped chorus fruit item and fix an error with a sound registering to the wrong file." />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Added coming soon screen" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729339044013</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added coming soon screen">
+      <option name="closed" value="true" />
+      <created>1730592805038</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730592805038</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +249,7 @@
     <MESSAGE value="Adjust custom font numbers" />
     <MESSAGE value="Move slash down a pixel" />
     <MESSAGE value="Move golden sword models to popped chorus fruit item and fix an error with a sound registering to the wrong file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Move golden sword models to popped chorus fruit item and fix an error with a sound registering to the wrong file." />
+    <MESSAGE value="Added coming soon screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added coming soon screen" />
   </component>
 </project>
