@@ -10,9 +10,16 @@
 		{
 			"type":"bitmap",
 			"file":"font/coming_soon.png",
-			"ascent":128,
-			"height":256,
+			"ascent":7,
+			"height":7,
 			"chars":["\uD010"]
+		},
+		{
+			"type":"bitmap",
+			"file":"font/game_status_background.png",
+			"ascent":7,
+			"height":27,
+			"chars":["\uD011"]
 		},
 		{
 			"type":"bitmap",

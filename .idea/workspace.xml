@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Added coming soon screen" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Adjust ascent">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/font/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/font/default.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730592805038</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Adjust ascent">
+      <option name="closed" value="true" />
+      <created>1730593114460</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1730593114460</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,6 +261,7 @@
     <MESSAGE value="Move slash down a pixel" />
     <MESSAGE value="Move golden sword models to popped chorus fruit item and fix an error with a sound registering to the wrong file." />
     <MESSAGE value="Added coming soon screen" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added coming soon screen" />
+    <MESSAGE value="Adjust ascent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust ascent" />
   </component>
 </project>
