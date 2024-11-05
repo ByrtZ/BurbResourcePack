@@ -17,8 +17,8 @@
 		{
 			"type":"bitmap",
 			"file":"font/game_status_background.png",
-			"ascent":27,
-			"height":27,
+			"ascent":31,
+			"height":31,
 			"chars":["\uD011"]
 		},
 		{
