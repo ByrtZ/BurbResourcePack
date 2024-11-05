@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Adjust game status background font and add better glowing shaders">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/font/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/font/default.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/textures/font/game_status_background.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/textures/font/game_status_background.png" afterDir="false" />
-    </list>
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Adjust game status background character" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -267,7 +263,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730847048678</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Adjust game status background character">
+      <option name="closed" value="true" />
+      <created>1730849416966</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1730849416966</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -300,6 +304,7 @@
     <MESSAGE value="Adjust game status font" />
     <MESSAGE value="Adjust game status background font and add no text shadow shaders" />
     <MESSAGE value="Adjust game status background font and add better glowing shaders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust game status background font and add better glowing shaders" />
+    <MESSAGE value="Adjust game status background character" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adjust game status background character" />
   </component>
 </project>
