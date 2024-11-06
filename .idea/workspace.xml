@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Adjust game status background character" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Modify pumpkinblur.png and add negative spacing data pack">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -295,7 +297,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730850669950</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Modify pumpkinblur.png and add negative spacing data pack">
+      <option name="closed" value="true" />
+      <created>1730900001206</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730900001206</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,6 +339,7 @@
     <MESSAGE value="Adjust game status background font and add no text shadow shaders" />
     <MESSAGE value="Adjust game status background font and add better glowing shaders" />
     <MESSAGE value="Adjust game status background character" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjust game status background character" />
+    <MESSAGE value="Modify pumpkinblur.png and add negative spacing data pack" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify pumpkinblur.png and add negative spacing data pack" />
   </component>
 </project>
