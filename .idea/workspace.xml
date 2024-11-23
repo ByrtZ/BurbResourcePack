@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Modify pumpkinblur.png and add negative spacing data pack">
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt fix negative space font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -305,7 +305,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730900001206</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Attempt fix negative space font">
+      <option name="closed" value="true" />
+      <created>1730901226378</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1730901226378</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -340,6 +348,7 @@
     <MESSAGE value="Adjust game status background font and add better glowing shaders" />
     <MESSAGE value="Adjust game status background character" />
     <MESSAGE value="Modify pumpkinblur.png and add negative spacing data pack" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify pumpkinblur.png and add negative spacing data pack" />
+    <MESSAGE value="Attempt fix negative space font" />
+    <option name="LAST_COMMIT_MESSAGE" value="Attempt fix negative space font" />
   </component>
 </project>
