@@ -462,10 +462,10 @@
 			"translation": [0, 2.5, -2]
 		},
 		"firstperson_lefthand": {
-			"translation": [0, 5, 0]
+			"translation": [0, 2.5, 2]
 		},
 		"ground": {
-			"translation": [0, 6.25, 0]
+			"translation": [0, 11, 0]
 		},
 		"gui": {
 			"rotation": [83.62, 51.13, -85.06],
