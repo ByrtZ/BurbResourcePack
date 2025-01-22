@@ -3,7 +3,7 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"0": "model/meleeGloves",
-		"particle": "model/meleeGloveL"
+		"particle": "model/meleeGloves"
 	},
 	"elements": [
 		{
