@@ -1,151 +1,295 @@
 {
-		"event.downtime.loop": {
-				"sounds": [
-					{
-						"name": "event/downtime.loop",
-						"stream": true
-					}
-				]
-		},
-		"event.downtime.suspense": {
-				"sounds": [
-					{
-						"name": "event/downtime.suspense",
-						"stream": true
-					}
-				]
-		},
-		"burb.lobby.waiting": {
-				"sounds": [
-					{
-						"name": "lobby/burb.lobby.waiting",
-						"stream": true
-					}
-				]
-		},
-		"burb.lobby.intro": {
-				"sounds": [
-					{
-						"name": "lobby/burb.lobby.intro",
-						"stream": true
-					}
-				]
-		},
-		"burb.generic.success": {
-				"sounds": [
-					{
-						"name": "global/burb.generic.success"
-					}
-				]
-		},
-		"burb.generic.vanquish": {
-				"sounds": [
-					{
-						"name": "global/burb.generic.vanquish"
-					}
-				]
-		},
-		"burb.game.intro_jingle": {
-				"sounds": [
-					{
-						"name": "game/burb.game.intro_jingle"
-					}
-				]
-		},
-		"burb.game.lose.plants": {
-				"sounds": [
-					{
-						"name": "game/burb.game.lose.plants"
-					}
-				]
-		},
-		"burb.game.lose.zombies": {
-				"sounds": [
-					{
-						"name": "game/burb.game.lose.zombies"
-					}
-				]
-		},
-		"burb.game.overtime.1": {
-				"sounds": [
-					{
-						"name": "game/burb.game.overtime.1",
-						"stream": true
-					}
-				]
-		},
-		"burb.game.overtime.2": {
-				"sounds": [
-					{
-						"name": "game/burb.game.overtime.2",
-						"stream": true
-					}
-				]
-		},
-		"burb.game.overtime.3": {
-				"sounds": [
-					{
-						"name": "game/burb.game.overtime.3",
-						"stream": true
-					}
-				]
-		},
-		"burb.game.post_game.1": {
-				"sounds": [
-					{
-						"name": "game/burb.game.post_game.1",
-						"stream": true
-					}
-				]
-		},
-		"burb.game.post_game.2": {
-				"sounds": [
-					{
-						"name": "game/burb.game.post_game.2",
-						"stream": true
-					}
-				]
-		},
-		"burb.game.suburbination.plants": {
-				"sounds": [
-					{
-						"name": "game/burb.game.suburbination.plants",
-						"stream": true
-					}
-				]
-		},
-		"burb.game.suburbination.zombies": {
-				"sounds": [
-					{
-						"name": "game/burb.game.suburbination.zombies",
-						"stream": true
-					}
-				]
-		},
-		"burb.game.win.plants": {
-				"sounds": [
-					{
-						"name": "game/burb.game.win.plants"
-					}
-				]
-		},
-		"burb.game.win.zombies": {
-				"sounds": [
-					{
-						"name": "game/burb.game.win.zombies"
-					}
-				]
-		},
-		"burb.weapon.foot_soldier.fire": {
+	"event.downtime.loop": {
 			"sounds": [
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.0",
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.1",
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.2",
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.3",
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.4",
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.5",
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.6",
-					"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
+				{
+					"name": "event/downtime.loop",
+					"stream": true
+				}
 			]
-		}
+	},
+	"event.downtime.suspense": {
+			"sounds": [
+				{
+					"name": "event/downtime.suspense",
+					"stream": true
+				}
+			]
+	},
+	"burb.lobby.waiting": {
+			"sounds": [
+				{
+					"name": "lobby/burb.lobby.waiting",
+					"stream": true
+				}
+			]
+	},
+	"burb.lobby.intro": {
+			"sounds": [
+				{
+					"name": "lobby/burb.lobby.intro",
+					"stream": true
+				}
+			]
+	},
+	"burb.generic.success": {
+			"sounds": [
+				{
+					"name": "global/burb.generic.success"
+				}
+			]
+	},
+	"burb.generic.vanquish": {
+			"sounds": [
+				{
+					"name": "global/burb.generic.vanquish"
+				}
+			]
+	},
+	"burb.game.intro_jingle": {
+			"sounds": [
+				{
+					"name": "game/burb.game.intro_jingle"
+				}
+			]
+	},
+	"burb.game.lose.plants": {
+			"sounds": [
+				{
+					"name": "game/burb.game.lose.plants"
+				}
+			]
+	},
+	"burb.game.lose.zombies": {
+			"sounds": [
+				{
+					"name": "game/burb.game.lose.zombies"
+				}
+			]
+	},
+	"burb.game.overtime.1": {
+			"sounds": [
+				{
+					"name": "game/burb.game.overtime.1",
+					"stream": true
+				}
+			]
+	},
+	"burb.game.overtime.2": {
+			"sounds": [
+				{
+					"name": "game/burb.game.overtime.2",
+					"stream": true
+				}
+			]
+	},
+	"burb.game.overtime.3": {
+			"sounds": [
+				{
+					"name": "game/burb.game.overtime.3",
+					"stream": true
+				}
+			]
+	},
+	"burb.game.post_game.1": {
+			"sounds": [
+				{
+					"name": "game/burb.game.post_game.1",
+					"stream": true
+				}
+			]
+	},
+	"burb.game.post_game.2": {
+			"sounds": [
+				{
+					"name": "game/burb.game.post_game.2",
+					"stream": true
+				}
+			]
+	},
+	"burb.game.suburbination.plants": {
+			"sounds": [
+				{
+					"name": "game/burb.game.suburbination.plants",
+					"stream": true
+				}
+			]
+	},
+	"burb.game.suburbination.zombies": {
+			"sounds": [
+				{
+					"name": "game/burb.game.suburbination.zombies",
+					"stream": true
+				}
+			]
+	},
+	"burb.game.win.plants": {
+			"sounds": [
+				{
+					"name": "game/burb.game.win.plants"
+				}
+			]
+	},
+	"burb.game.win.zombies": {
+			"sounds": [
+				{
+					"name": "game/burb.game.win.zombies"
+				}
+			]
+	},
+	"burb.weapon.foot_soldier.fire": {
+		"sounds": [
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.0",
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.1",
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.2",
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.3",
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.4",
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.5",
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.6",
+				"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
+		]
+	},
+	"burb.music.low.bad_juice": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.low.bad_juice",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.low.bug_zap": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.low.bug_zap",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.low.crainy_yum": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.low.crainy_yum",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.low.loon_boon": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.low.loon_boon",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.low.partially_blown_up": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.low.partially_blown_up",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.low.thing_of_it_is": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.low.thing_of_it_is",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.medium.bad_juice": {
+		"sounds": [
+			{
+				"name": "music/medium/burb.music.medium.bad_juice",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.medium.bug_zap": {
+		"sounds": [
+			{
+				"name": "music/medium/burb.music.medium.bug_zap",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.medium.crainy_yum": {
+		"sounds": [
+			{
+				"name": "music/medium/burb.music.medium.crainy_yum",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.medium.loon_boon": {
+		"sounds": [
+			{
+				"name": "music/medium/burb.music.medium.loon_boon",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.medium.partially_blown_up": {
+		"sounds": [
+			{
+				"name": "music/medium/burb.music.medium.partially_blown_up",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.medium.thing_of_it_is": {
+		"sounds": [
+			{
+				"name": "music/medium/burb.music.medium.thing_of_it_is",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.high.bad_juice": {
+		"sounds": [
+			{
+				"name": "music/high/burb.music.high.bad_juice",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.high.bug_zap": {
+		"sounds": [
+			{
+				"name": "music/high/burb.music.high.bug_zap",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.high.crainy_yum": {
+		"sounds": [
+			{
+				"name": "music/high/burb.music.high.crainy_yum",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.high.loon_boon": {
+		"sounds": [
+			{
+				"name": "music/high/burb.music.high.loon_boon",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.high.partially_blown_up": {
+		"sounds": [
+			{
+				"name": "music/high/burb.music.high.partially_blown_up",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.high.thing_of_it_is": {
+		"sounds": [
+			{
+				"name": "music/high/burb.music.high.thing_of_it_is",
+				"stream": true
+			}
+		]
+	}
 }
