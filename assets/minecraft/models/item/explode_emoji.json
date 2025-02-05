@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/explodeEmoji",
-		"particle": "item/explodeEmoji"
+		"0": "item/explode_emoji",
+		"particle": "item/explode_emoji"
 	},
 	"elements": [
 		{

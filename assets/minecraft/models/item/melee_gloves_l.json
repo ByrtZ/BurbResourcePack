@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/meleeGloves",
-		"particle": "item/meleeGloves"
+		"0": "item/melee_gloves_l",
+		"particle": "item/melee_gloves_l"
 	},
 	"elements": [
 		{

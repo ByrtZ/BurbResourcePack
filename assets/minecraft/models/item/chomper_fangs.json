@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"0": "block/chomperFangs",
-		"particle": "block/chomperFangs"
+		"0": "item/chomper_fangs",
+		"particle": "item/chomper_fangs"
 	},
 	"elements": [
 		{
