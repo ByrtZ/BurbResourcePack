@@ -148,6 +148,26 @@
 				"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
 		]
 	},
+	"burb.weapon.peashooter.ability.explosive.fire": {
+		"sounds": [
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.fire"
+		]
+	},
+	"burb.weapon.peashooter.ability.explosive.explode": {
+		"sounds": [
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.1",
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.2",
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.3"
+		]
+	},
+	"burb.weapon.peashooter.ability.explosive.voice": {
+		"sounds": [
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.1",
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.2",
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.3",
+			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.4"
+		]
+	},
 	"burb.music.low.bad_juice": {
 		"sounds": [
 			{
