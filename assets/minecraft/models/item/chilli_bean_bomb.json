@@ -1,5 +1,11 @@
 {
 	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/chilli_bean_bomb",
+		"1": "item/outline",
+		"particle": "item/chilli_bean_bomb"
+	},
 	"elements": [
 		{
 			"from": [3.9, -4.2, 4.8],

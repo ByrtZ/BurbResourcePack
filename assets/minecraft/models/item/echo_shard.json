@@ -9,6 +9,7 @@
     {"predicate": {"custom_model_data": 2}, "model": "item/flooshed_emoji"},
     {"predicate": {"custom_model_data": 3}, "model": "item/explode_emoji"},
     {"predicate": {"custom_model_data": 4}, "model": "item/penny_rv"},
-    {"predicate": {"custom_model_data": 5}, "model": "item/gravestone_point"}
+    {"predicate": {"custom_model_data": 5}, "model": "item/gravestone_point"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/chilli_bean_bomb"}
   ]
 }
