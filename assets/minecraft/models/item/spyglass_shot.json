@@ -454,7 +454,8 @@
 			"translation": [0, 3.5, 0]
 		},
 		"ground": {
-			"translation": [0, 4, 0]
+			"translation": [0, 8.75, 0],
+			"scale": [1.54, 1.54, 1.54]
 		},
 		"gui": {
 			"rotation": [90, -44.5, 90],
