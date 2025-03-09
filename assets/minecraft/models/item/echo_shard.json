@@ -11,7 +11,6 @@
     {"predicate": {"custom_model_data": 4}, "model": "item/penny_rv"},
     {"predicate": {"custom_model_data": 5}, "model": "item/gravestone_point"},
     {"predicate": {"custom_model_data": 6}, "model": "item/chilli_bean_bomb"},
-    {"predicate": {"custom_model_data": 7}, "model": "item/flamey"},
-    {"predicate": {"custom_model_data": 8}, "model": "item/goat"}
+    {"predicate": {"custom_model_data": 7}, "model": "item/flamey"}
   ]
 }
