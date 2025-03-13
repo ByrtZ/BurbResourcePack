@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Add chilli bean bomb sounds">
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Assign chilli bean bomb to an item">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -361,7 +361,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739724142769</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Assign chilli bean bomb to an item">
+      <option name="closed" value="true" />
+      <created>1739909210696</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1739909210696</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,7 +404,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adjust dark screen height" />
     <MESSAGE value="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound." />
     <MESSAGE value="Attempt fix models not loading" />
     <MESSAGE value="Test alternative font" />
@@ -421,6 +428,7 @@
     <MESSAGE value="Add general music tracks" />
     <MESSAGE value="Refactor pack to use underscore naming conventions and removed unnecessary textures." />
     <MESSAGE value="Add chilli bean bomb sounds" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add chilli bean bomb sounds" />
+    <MESSAGE value="Assign chilli bean bomb to an item" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assign chilli bean bomb to an item" />
   </component>
 </project>
