@@ -146,14 +146,24 @@
 	},
 	"burb.weapon.foot_soldier.fire": {
 		"sounds": [
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.0",
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.1",
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.2",
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.3",
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.4",
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.5",
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.6",
-				"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.0",
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.1",
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.2",
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.3",
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.4",
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.5",
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.6",
+			"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
+		]
+	},
+	"burb.weapon.peashooter.fire": {
+		"sounds": [
+			"weapon/peashooter/burb.weapon.peashooter.core.0",
+			"weapon/peashooter/burb.weapon.peashooter.core.1",
+			"weapon/peashooter/burb.weapon.peashooter.core.2",
+			"weapon/peashooter/burb.weapon.peashooter.core.3",
+			"weapon/peashooter/burb.weapon.peashooter.core.4",
+			"weapon/peashooter/burb.weapon.peashooter.core.5"
 		]
 	},
 	"burb.weapon.peashooter.ability.explosive.fire": {
@@ -317,6 +327,62 @@
 			{
 				"name": "music/high/burb.music.high.thing_of_it_is",
 				"stream": true
+			}
+		]
+	},
+	"burb.generic.alarm": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.alarm"
+			}
+		]
+	},
+	"burb.generic.clock_tick": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.clock_tick"
+			}
+		]
+	},
+	"burb.generic.ode_to_joy": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.ode_to_joy"
+			}
+		]
+	},
+	"burb.generic.round_end": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.round_end"
+			}
+		]
+	},
+	"burb.game.capture.friendly": {
+		"sounds": [
+			{
+				"name": "game/burb.game.capture.friendly"
+			}
+		]
+	},
+	"burb.game.capture.unfriendly": {
+		"sounds": [
+			{
+				"name": "game/burb.game.capture.unfriendly"
+			}
+		]
+	},
+	"burb.game.death": {
+		"sounds": [
+			{
+				"name": "game/burb.game.death"
+			}
+		]
+	},
+	"burb.game.death_stats": {
+		"sounds": [
+			{
+				"name": "game/burb.game.death_stats"
 			}
 		]
 	}
