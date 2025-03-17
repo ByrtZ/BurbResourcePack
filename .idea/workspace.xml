@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Edited font">
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Yet another giga sound adding session">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\gui\sprites" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\burb\textures\font" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\model" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\block" />
@@ -386,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741883316313</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Yet another giga sound adding session">
+      <option name="closed" value="true" />
+      <created>1741970682162</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1741970682162</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -421,7 +429,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Attempt fix models not loading" />
     <MESSAGE value="Test alternative font" />
     <MESSAGE value="Remove alt font for now and removed pumpkin blur." />
     <MESSAGE value="Attempt add alt font" />
@@ -446,6 +453,7 @@
     <MESSAGE value="Add chilli bean bomb sounds" />
     <MESSAGE value="Assign chilli bean bomb to an item" />
     <MESSAGE value="Edited font" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited font" />
+    <MESSAGE value="Yet another giga sound adding session" />
+    <option name="LAST_COMMIT_MESSAGE" value="Yet another giga sound adding session" />
   </component>
 </project>
