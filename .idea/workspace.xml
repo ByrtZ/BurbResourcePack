@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Yet another giga sound adding session">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Added blank hunger sprites and language file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -394,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741970682162</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Added blank hunger sprites and language file">
+      <option name="closed" value="true" />
+      <created>1742247929726</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1742247929726</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -429,7 +435,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Test alternative font" />
     <MESSAGE value="Remove alt font for now and removed pumpkin blur." />
     <MESSAGE value="Attempt add alt font" />
     <MESSAGE value="Move second row letters down a pixel" />
@@ -454,6 +459,7 @@
     <MESSAGE value="Assign chilli bean bomb to an item" />
     <MESSAGE value="Edited font" />
     <MESSAGE value="Yet another giga sound adding session" />
-    <option name="LAST_COMMIT_MESSAGE" value="Yet another giga sound adding session" />
+    <MESSAGE value="Added blank hunger sprites and language file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added blank hunger sprites and language file" />
   </component>
 </project>
