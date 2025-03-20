@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Added blank hunger sprites and language file" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="More invisible sprites and GB lang file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.0.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.0.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.1.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.2.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.3.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.4.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.4.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.5.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.5.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.6.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.6.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.7.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.7.ogg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -400,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742247929726</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="More invisible sprites and GB lang file">
+      <option name="closed" value="true" />
+      <created>1742248198894</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1742248198894</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -435,7 +454,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Remove alt font for now and removed pumpkin blur." />
     <MESSAGE value="Attempt add alt font" />
     <MESSAGE value="Move second row letters down a pixel" />
     <MESSAGE value="Adjust font height" />
@@ -460,6 +478,7 @@
     <MESSAGE value="Edited font" />
     <MESSAGE value="Yet another giga sound adding session" />
     <MESSAGE value="Added blank hunger sprites and language file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added blank hunger sprites and language file" />
+    <MESSAGE value="More invisible sprites and GB lang file" />
+    <option name="LAST_COMMIT_MESSAGE" value="More invisible sprites and GB lang file" />
   </component>
 </project>

@@ -156,6 +156,12 @@
 			"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
 		]
 	},
+	"burb.weapon.scientist.fire": {
+		"sounds": [
+			"weapon/scientist/burb.weapon.scientist.core.0",
+			"weapon/scientist/burb.weapon.scientist.core.1"
+		]
+	},
 	"burb.weapon.peashooter.fire": {
 		"sounds": [
 			"weapon/peashooter/burb.weapon.peashooter.core.0",
@@ -164,6 +170,29 @@
 			"weapon/peashooter/burb.weapon.peashooter.core.3",
 			"weapon/peashooter/burb.weapon.peashooter.core.4",
 			"weapon/peashooter/burb.weapon.peashooter.core.5"
+		]
+	},
+	"burb.weapon.cactus.fire": {
+		"sounds": [
+			"weapon/cactus/burb.weapon.cactus.core.0",
+			"weapon/cactus/burb.weapon.cactus.core.1",
+			"weapon/cactus/burb.weapon.cactus.core.2",
+			"weapon/cactus/burb.weapon.cactus.core.3"
+		]
+	},
+	"burb.weapon.chomper.fire": {
+		"sounds": [
+			"weapon/chomper/burb.weapon.chomper.core.0",
+			"weapon/chomper/burb.weapon.chomper.core.1",
+			"weapon/chomper/burb.weapon.chomper.core.2",
+			"weapon/chomper/burb.weapon.chomper.core.3",
+			"weapon/chomper/burb.weapon.chomper.core.4"
+		]
+	},
+	"burb.weapon.sunflower.fire": {
+		"sounds": [
+			"weapon/sunflower/burb.weapon.sunflower.core.0",
+			"weapon/sunflower/burb.weapon.sunflower.core.1"
 		]
 	},
 	"burb.weapon.peashooter.ability.explosive.fire": {
@@ -334,6 +363,13 @@
 		"sounds": [
 			{
 				"name": "global/burb.generic.alarm"
+			}
+		]
+	},
+	"burb.generic.tick": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.tick"
 			}
 		]
 	},
