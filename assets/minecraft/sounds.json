@@ -74,24 +74,16 @@
 				}
 			]
 	},
-	"burb.game.overtime.1": {
+	"burb.game.overtime": {
 			"sounds": [
 				{
 					"name": "game/burb.game.overtime.1",
 					"stream": true
-				}
-			]
-	},
-	"burb.game.overtime.2": {
-			"sounds": [
+				},
 				{
 					"name": "game/burb.game.overtime.2",
 					"stream": true
-				}
-			]
-	},
-	"burb.game.overtime.3": {
-			"sounds": [
+				},
 				{
 					"name": "game/burb.game.overtime.3",
 					"stream": true
