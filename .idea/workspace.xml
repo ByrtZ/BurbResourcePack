@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Merged overtime tracks into one sound id">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/carved_pumpkin.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/cactus/burb.weapon.cactus.core.0.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/cactus/burb.weapon.cactus.core.0.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/cactus/burb.weapon.cactus.core.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/cactus/burb.weapon.cactus.core.1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/cactus/burb.weapon.cactus.core.2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/cactus/burb.weapon.cactus.core.2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/cactus/burb.weapon.cactus.core.3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/cactus/burb.weapon.cactus.core.3.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/chomper/burb.weapon.chomper.core.0.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/chomper/burb.weapon.chomper.core.0.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/chomper/burb.weapon.chomper.core.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/chomper/burb.weapon.chomper.core.1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/chomper/burb.weapon.chomper.core.2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/chomper/burb.weapon.chomper.core.2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/chomper/burb.weapon.chomper.core.3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/chomper/burb.weapon.chomper.core.3.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/chomper/burb.weapon.chomper.core.4.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/chomper/burb.weapon.chomper.core.4.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.0.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.0.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.3.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.4.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.4.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.5.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.5.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.6.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.6.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/foot_soldier/burb.weapon.foot_soldier.core.7.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/foot_soldier/burb.weapon.foot_soldier.core.7.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.explode.1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.explode.2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.explode.3.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.fire.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.fire.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.3.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.4.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.4.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/burb.weapon.peashooter.core.0.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/burb.weapon.peashooter.core.0.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/burb.weapon.peashooter.core.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/burb.weapon.peashooter.core.1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/burb.weapon.peashooter.core.2.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/burb.weapon.peashooter.core.2.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/burb.weapon.peashooter.core.3.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/burb.weapon.peashooter.core.3.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/burb.weapon.peashooter.core.4.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/burb.weapon.peashooter.core.4.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/peashooter/burb.weapon.peashooter.core.5.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/peashooter/burb.weapon.peashooter.core.5.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/scientist/burb.weapon.scientist.core.0.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/scientist/burb.weapon.scientist.core.0.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/scientist/burb.weapon.scientist.core.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/scientist/burb.weapon.scientist.core.1.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/sunflower/burb.weapon.sunflower.core.0.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/sunflower/burb.weapon.sunflower.core.0.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds/weapon/sunflower/burb.weapon.sunflower.core.1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds/character/sunflower/burb.weapon.sunflower.core.1.ogg" afterDir="false" />
-    </list>
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="More ability sounds and refactored namespacing for character sounds" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -463,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742487823003</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="More ability sounds and refactored namespacing for character sounds">
+      <option name="closed" value="true" />
+      <created>1742996754505</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1742996754505</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +467,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adjust font height" />
     <MESSAGE value="Adjust custom font numbers" />
     <MESSAGE value="Move slash down a pixel" />
     <MESSAGE value="Move golden sword models to popped chorus fruit item and fix an error with a sound registering to the wrong file." />
@@ -523,6 +491,7 @@
     <MESSAGE value="More invisible sprites and GB lang file" />
     <MESSAGE value="Added more weapon sounds and made foot soldier weapon sounds mono instead of stereo" />
     <MESSAGE value="Merged overtime tracks into one sound id" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merged overtime tracks into one sound id" />
+    <MESSAGE value="More ability sounds and refactored namespacing for character sounds" />
+    <option name="LAST_COMMIT_MESSAGE" value="More ability sounds and refactored namespacing for character sounds" />
   </component>
 </project>

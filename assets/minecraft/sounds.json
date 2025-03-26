@@ -230,6 +230,90 @@
 			"character/foot_soldier/ability/explosive/burb.ability.foot_soldier.zpg.whizz.3"
 		]
 	},
+	"burb.music.low.random": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.low.bad_juice",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.low.bug_zap",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.low.crainy_yum",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.low.loon_boon",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.low.partially_blown_up",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.low.thing_of_it_is",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.medium.random": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.medium.bad_juice",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.medium.bug_zap",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.medium.crainy_yum",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.medium.loon_boon",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.medium.partially_blown_up",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.medium.thing_of_it_is",
+				"stream": true
+			}
+		]
+	},
+	"burb.music.high.random": {
+		"sounds": [
+			{
+				"name": "music/low/burb.music.high.bad_juice",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.high.bug_zap",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.high.crainy_yum",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.high.loon_boon",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.high.partially_blown_up",
+				"stream": true
+			},
+			{
+				"name": "music/low/burb.music.high.thing_of_it_is",
+				"stream": true
+			}
+		]
+	},
 	"burb.music.low.bad_juice": {
 		"sounds": [
 			{
