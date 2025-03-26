@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Added random music IDs" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Fix typos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,14 +47,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Adjust dark screen height">
-      <option name="closed" value="true" />
-      <created>1727562757722</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1727562757722</updated>
     </task>
     <task id="LOCAL-00002" summary="Adjust dark screen height">
       <option name="closed" value="true" />
@@ -440,7 +432,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742998166711</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Fix typos">
+      <option name="closed" value="true" />
+      <created>1742999634839</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1742999634840</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -475,7 +475,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Move slash down a pixel" />
     <MESSAGE value="Move golden sword models to popped chorus fruit item and fix an error with a sound registering to the wrong file." />
     <MESSAGE value="Added coming soon screen" />
     <MESSAGE value="Adjust ascent" />
@@ -500,6 +499,7 @@
     <MESSAGE value="Merged overtime tracks into one sound id" />
     <MESSAGE value="More ability sounds and refactored namespacing for character sounds" />
     <MESSAGE value="Added random music IDs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added random music IDs" />
+    <MESSAGE value="Fix typos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix typos" />
   </component>
 </project>
