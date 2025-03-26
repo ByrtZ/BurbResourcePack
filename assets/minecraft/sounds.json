@@ -261,27 +261,27 @@
 	"burb.music.medium.random": {
 		"sounds": [
 			{
-				"name": "music/low/burb.music.medium.bad_juice",
+				"name": "music/medium/burb.music.medium.bad_juice",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.medium.bug_zap",
+				"name": "music/medium/burb.music.medium.bug_zap",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.medium.crainy_yum",
+				"name": "music/medium/burb.music.medium.crainy_yum",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.medium.loon_boon",
+				"name": "music/medium/burb.music.medium.loon_boon",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.medium.partially_blown_up",
+				"name": "music/medium/burb.music.medium.partially_blown_up",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.medium.thing_of_it_is",
+				"name": "music/medium/burb.music.medium.thing_of_it_is",
 				"stream": true
 			}
 		]
@@ -289,27 +289,27 @@
 	"burb.music.high.random": {
 		"sounds": [
 			{
-				"name": "music/low/burb.music.high.bad_juice",
+				"name": "music/high/burb.music.high.bad_juice",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.high.bug_zap",
+				"name": "music/high/burb.music.high.bug_zap",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.high.crainy_yum",
+				"name": "music/high/burb.music.high.crainy_yum",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.high.loon_boon",
+				"name": "music/high/burb.music.high.loon_boon",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.high.partially_blown_up",
+				"name": "music/high/burb.music.high.partially_blown_up",
 				"stream": true
 			},
 			{
-				"name": "music/low/burb.music.high.thing_of_it_is",
+				"name": "music/high/burb.music.high.thing_of_it_is",
 				"stream": true
 			}
 		]
