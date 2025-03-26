@@ -138,73 +138,96 @@
 	},
 	"burb.weapon.foot_soldier.fire": {
 		"sounds": [
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.0",
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.1",
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.2",
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.3",
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.4",
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.5",
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.6",
-			"weapon/foot_soldier/burb.weapon.foot_soldier.core.7"
+			"character/foot_soldier/burb.weapon.foot_soldier.core.0",
+			"character/foot_soldier/burb.weapon.foot_soldier.core.1",
+			"character/foot_soldier/burb.weapon.foot_soldier.core.2",
+			"character/foot_soldier/burb.weapon.foot_soldier.core.3",
+			"character/foot_soldier/burb.weapon.foot_soldier.core.4",
+			"character/foot_soldier/burb.weapon.foot_soldier.core.5",
+			"character/foot_soldier/burb.weapon.foot_soldier.core.6",
+			"character/foot_soldier/burb.weapon.foot_soldier.core.7"
 		]
 	},
 	"burb.weapon.scientist.fire": {
 		"sounds": [
-			"weapon/scientist/burb.weapon.scientist.core.0",
-			"weapon/scientist/burb.weapon.scientist.core.1"
+			"character/scientist/burb.weapon.scientist.core.0",
+			"character/scientist/burb.weapon.scientist.core.1"
 		]
 	},
 	"burb.weapon.peashooter.fire": {
 		"sounds": [
-			"weapon/peashooter/burb.weapon.peashooter.core.0",
-			"weapon/peashooter/burb.weapon.peashooter.core.1",
-			"weapon/peashooter/burb.weapon.peashooter.core.2",
-			"weapon/peashooter/burb.weapon.peashooter.core.3",
-			"weapon/peashooter/burb.weapon.peashooter.core.4",
-			"weapon/peashooter/burb.weapon.peashooter.core.5"
+			"character/peashooter/burb.weapon.peashooter.core.0",
+			"character/peashooter/burb.weapon.peashooter.core.1",
+			"character/peashooter/burb.weapon.peashooter.core.2",
+			"character/peashooter/burb.weapon.peashooter.core.3",
+			"character/peashooter/burb.weapon.peashooter.core.4",
+			"character/peashooter/burb.weapon.peashooter.core.5"
 		]
 	},
 	"burb.weapon.cactus.fire": {
 		"sounds": [
-			"weapon/cactus/burb.weapon.cactus.core.0",
-			"weapon/cactus/burb.weapon.cactus.core.1",
-			"weapon/cactus/burb.weapon.cactus.core.2",
-			"weapon/cactus/burb.weapon.cactus.core.3"
+			"character/cactus/burb.weapon.cactus.core.0",
+			"character/cactus/burb.weapon.cactus.core.1",
+			"character/cactus/burb.weapon.cactus.core.2",
+			"character/cactus/burb.weapon.cactus.core.3"
 		]
 	},
 	"burb.weapon.chomper.fire": {
 		"sounds": [
-			"weapon/chomper/burb.weapon.chomper.core.0",
-			"weapon/chomper/burb.weapon.chomper.core.1",
-			"weapon/chomper/burb.weapon.chomper.core.2",
-			"weapon/chomper/burb.weapon.chomper.core.3",
-			"weapon/chomper/burb.weapon.chomper.core.4"
+			"character/chomper/burb.weapon.chomper.core.0",
+			"character/chomper/burb.weapon.chomper.core.1",
+			"character/chomper/burb.weapon.chomper.core.2",
+			"character/chomper/burb.weapon.chomper.core.3",
+			"character/chomper/burb.weapon.chomper.core.4"
 		]
 	},
 	"burb.weapon.sunflower.fire": {
 		"sounds": [
-			"weapon/sunflower/burb.weapon.sunflower.core.0",
-			"weapon/sunflower/burb.weapon.sunflower.core.1"
+			"character/sunflower/burb.weapon.sunflower.core.0",
+			"character/sunflower/burb.weapon.sunflower.core.1"
 		]
 	},
-	"burb.weapon.peashooter.ability.explosive.fire": {
+	"burb.ability.peashooter.explosive.fire": {
 		"sounds": [
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.fire"
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.fire"
 		]
 	},
-	"burb.weapon.peashooter.ability.explosive.explode": {
+	"burb.ability.peashooter.explosive.explode": {
 		"sounds": [
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.1",
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.2",
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.explode.3"
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.explode.1",
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.explode.2",
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.explode.3"
 		]
 	},
-	"burb.weapon.peashooter.ability.explosive.voice": {
+	"burb.ability.peashooter.explosive.voice": {
 		"sounds": [
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.1",
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.2",
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.3",
-			"weapon/peashooter/ability/explosive/burb.weapon.peashooter.ability.explosive.voice.4"
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.1",
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.2",
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.3",
+			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.4"
+		]
+	},
+	"burb.ability.foot_soldier.rocket_jump": {
+		"sounds": [
+			"character/foot_soldier/ability/movement/burb.ability.foot_soldier.rocket_jump"
+		]
+	},
+	"burb.ability.foot_soldier.zpg.trigger": {
+		"sounds": [
+			"character/foot_soldier/ability/explosive/burb.ability.foot_soldier.zpg.trigger"
+		]
+	},
+	"burb.ability.foot_soldier.zpg.fire": {
+		"sounds": [
+			"character/foot_soldier/ability/explosive/burb.ability.foot_soldier.zpg.fire"
+		]
+	},
+	"burb.ability.foot_soldier.zpg.whizz": {
+		"sounds": [
+			"character/foot_soldier/ability/explosive/burb.ability.foot_soldier.zpg.whizz.0",
+			"character/foot_soldier/ability/explosive/burb.ability.foot_soldier.zpg.whizz.1",
+			"character/foot_soldier/ability/explosive/burb.ability.foot_soldier.zpg.whizz.2",
+			"character/foot_soldier/ability/explosive/burb.ability.foot_soldier.zpg.whizz.3"
 		]
 	},
 	"burb.music.low.bad_juice": {
