@@ -13,7 +13,8 @@
     {"predicate": {"custom_model_data": 6}, "model": "item/chilli_bean_bomb"},
     {"predicate": {"custom_model_data": 7}, "model": "item/flamey"},
     {"predicate": {"custom_model_data": 8}, "model": "item/condiments"},
-    {"predicate": {"custom_model_data": 9}, "model": "item/mail_box"}
+    {"predicate": {"custom_model_data": 9}, "model": "item/mail_box"},
+    {"predicate": {"custom_model_data": 9}, "model": "item/maskyPlush"}
 
   ]
 }
