@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/masky",
 		"particle": "item/masky"
@@ -116,13 +117,5 @@
 		"head": {
 			"translation": [0, 13.5, 0]
 		}
-	},
-	"groups": [
-		{
-			"name": "goat",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5, 6]
-		}
-	]
+	}
 }
