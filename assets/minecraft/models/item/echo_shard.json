@@ -15,7 +15,5 @@
     {"predicate": {"custom_model_data": 8}, "model": "item/condiments"},
     {"predicate": {"custom_model_data": 9}, "model": "item/mail_box"},
     {"predicate": {"custom_model_data": 10}, "model": "item/maskyPlush"}
-
-
   ]
 }
