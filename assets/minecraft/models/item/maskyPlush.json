@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "masky",
+		"0": "item/masky",
 		"particle": "masky"
 	},
 	"elements": [
