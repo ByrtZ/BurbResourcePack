@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Attempt update glowing">
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/shaders/post/entity_outline.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/shaders/post/entity_outline.json.disabled" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/shaders/program/entityglow.fsh" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/shaders/program/entityglow.fsh.disabled" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/minecraft/shaders/program/entityglow.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/shaders/program/entityglow.json.disabled" afterDir="false" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Temporarily disable alternative glowing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,14 +49,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Adjust dark screen height">
-      <option name="closed" value="true" />
-      <created>1727564768316</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1727564768316</updated>
     </task>
     <task id="LOCAL-00007" summary="Attempt fix models not loading">
       <option name="closed" value="true" />
@@ -444,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744131558532</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Temporarily disable alternative glowing">
+      <option name="closed" value="true" />
+      <created>1744131748223</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1744131748223</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -479,7 +477,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adjust game status font" />
     <MESSAGE value="Adjust game status background font and add no text shadow shaders" />
     <MESSAGE value="Adjust game status background font and add better glowing shaders" />
     <MESSAGE value="Adjust game status background character" />
@@ -504,6 +501,7 @@
     <MESSAGE value="Attempt fix Masky" />
     <MESSAGE value="Bump version to support 1.21.4" />
     <MESSAGE value="Attempt update glowing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Attempt update glowing" />
+    <MESSAGE value="Temporarily disable alternative glowing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Temporarily disable alternative glowing" />
   </component>
 </project>
