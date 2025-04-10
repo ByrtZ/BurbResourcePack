@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Temporarily disable alternative glowing">
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Converted models to new item system and deprecated the old system">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +35,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\models\item\deprecated" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\gui\sprites" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\burb\textures\font" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\model" />
@@ -49,22 +50,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Attempt fix models not loading">
-      <option name="closed" value="true" />
-      <created>1727624675741</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1727624675741</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Attempt fix models not loading also add attenuation distance to foot soldier main weapon sound.">
-      <option name="closed" value="true" />
-      <created>1727624988077</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1727624988077</updated>
     </task>
     <task id="LOCAL-00009" summary="Attempt fix models not loading">
       <option name="closed" value="true" />
@@ -442,7 +427,23 @@
       <option name="project" value="LOCAL" />
       <updated>1744131748223</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Test new item model system">
+      <option name="closed" value="true" />
+      <created>1744142199266</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1744142199266</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Converted models to new item system and deprecated the old system">
+      <option name="closed" value="true" />
+      <created>1744143325003</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1744143325003</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -477,8 +478,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adjust game status background font and add no text shadow shaders" />
-    <MESSAGE value="Adjust game status background font and add better glowing shaders" />
     <MESSAGE value="Adjust game status background character" />
     <MESSAGE value="Modify pumpkinblur.png and add negative spacing data pack" />
     <MESSAGE value="Attempt fix negative space font" />
@@ -502,6 +501,8 @@
     <MESSAGE value="Bump version to support 1.21.4" />
     <MESSAGE value="Attempt update glowing" />
     <MESSAGE value="Temporarily disable alternative glowing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Temporarily disable alternative glowing" />
+    <MESSAGE value="Test new item model system" />
+    <MESSAGE value="Converted models to new item system and deprecated the old system" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converted models to new item system and deprecated the old system" />
   </component>
 </project>

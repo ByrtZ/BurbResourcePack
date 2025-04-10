@@ -207,6 +207,35 @@
 			"character/peashooter/ability/explosive/burb.ability.peashooter.explosive.voice.4"
 		]
 	},
+	"burb.ability.peashooter.gatling.root": {
+		"sounds": [
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.root"
+		]
+	},
+	"burb.ability.peashooter.gatling.unroot": {
+		"sounds": [
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.unroot"
+		]
+	},
+	"burb.ability.peashooter.gatling.idle_loop": {
+		"sounds": [
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.idle_loop"
+		]
+	},
+	"burb.ability.peashooter.gatling.fire": {
+		"sounds": [
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.0",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.1",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.2",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.3",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.4",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.5",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.6",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.7",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.8",
+			"character/peashooter/ability/gatling/burb.ability.peashooter.gatling.fire.9"
+		]
+	},
 	"burb.ability.foot_soldier.rocket_jump": {
 		"sounds": [
 			"character/foot_soldier/ability/movement/burb.ability.foot_soldier.rocket_jump"
