@@ -34,5 +34,31 @@
 				"down": {"uv": [12.375, 0, 8.25, 0.625], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.3, 0.3, 0.3]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, -15, 0],
+			"translation": [1, 2.5, 0],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, -15, 0],
+			"translation": [1, 2.5, 0],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"head": {
+			"translation": [0, 14.75, 0]
+		}
+	}
 }
