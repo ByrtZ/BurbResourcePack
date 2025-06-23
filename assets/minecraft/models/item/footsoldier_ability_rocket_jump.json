@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/footsoldier_ability_rocket_jump",
-		"particle": "block/footsoldier_ability_rocket_jump"
+		"0": "item/footsoldier_ability_rocket_jump",
+		"particle": "item/footsoldier_ability_rocket_jump"
 	},
 	"elements": [
 		{
