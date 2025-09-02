@@ -53,6 +53,12 @@
 			"rotation": [-10, -19, 0],
 			"translation": [1, 2.5, 0],
 			"scale": [0.44, 0.44, 0.44]
+		},
+		"ground": {
+			"translation": [0, 5.25, 0]
+		},
+		"head": {
+			"translation": [0, 14.75, 0]
 		}
 	}
 }
