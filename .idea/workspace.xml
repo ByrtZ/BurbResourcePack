@@ -49,14 +49,6 @@
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
     </task>
-    <task id="LOCAL-00016" summary="Move second row letters down a pixel">
-      <option name="closed" value="true" />
-      <created>1727642917545</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1727642917545</updated>
-    </task>
     <task id="LOCAL-00017" summary="Adjust font height">
       <option name="closed" value="true" />
       <created>1727643413235</created>
@@ -441,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757685075266</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Update burb font">
+      <option name="closed" value="true" />
+      <created>1757685315399</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1757685315399</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
