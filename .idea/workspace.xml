@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Temporarily disable text shaders">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Updated smoother glowing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,14 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Remove alt font for now and removed pumpkin blur.">
-      <option name="closed" value="true" />
-      <created>1727641406616</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1727641406616</updated>
     </task>
     <task id="LOCAL-00015" summary="Attempt add alt font">
       <option name="closed" value="true" />
@@ -443,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756853719193</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Updated smoother glowing">
+      <option name="closed" value="true" />
+      <created>1757674976911</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1757674976911</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -478,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add general music tracks" />
     <MESSAGE value="Refactor pack to use underscore naming conventions and removed unnecessary textures." />
     <MESSAGE value="Add chilli bean bomb sounds" />
     <MESSAGE value="Assign chilli bean bomb to an item" />
@@ -503,6 +500,7 @@
     <MESSAGE value="Funny icons" />
     <MESSAGE value="Bump pack format" />
     <MESSAGE value="Temporarily disable text shaders" />
-    <option name="LAST_COMMIT_MESSAGE" value="Temporarily disable text shaders" />
+    <MESSAGE value="Updated smoother glowing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated smoother glowing" />
   </component>
 </project>
