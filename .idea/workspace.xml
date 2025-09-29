@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Mix sun pulse sounds down to mono" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Increased volume of sun pulse sounds">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/sounds.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/sounds.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,22 +51,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00022" summary="Added coming soon screen">
-      <option name="closed" value="true" />
-      <created>1730592805038</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1730592805038</updated>
-    </task>
-    <task id="LOCAL-00023" summary="Adjust ascent">
-      <option name="closed" value="true" />
-      <created>1730593114460</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1730593114460</updated>
     </task>
     <task id="LOCAL-00024" summary="Modify coming soon and add game status background texture">
       <option name="closed" value="true" />
@@ -441,7 +428,23 @@
       <option name="project" value="LOCAL" />
       <updated>1759152644763</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Increased volume of sun pulse sounds">
+      <option name="closed" value="true" />
+      <created>1759153022974</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1759153022974</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Increased volume of sun pulse sounds">
+      <option name="closed" value="true" />
+      <created>1759153032066</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1759153032066</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -476,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Yet another giga sound adding session" />
     <MESSAGE value="Added blank hunger sprites and language file" />
     <MESSAGE value="More invisible sprites and GB lang file" />
     <MESSAGE value="Added more weapon sounds and made foot soldier weapon sounds mono instead of stereo" />
@@ -501,6 +503,7 @@
     <MESSAGE value="Update font" />
     <MESSAGE value="Register potato mine" />
     <MESSAGE value="Mix sun pulse sounds down to mono" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mix sun pulse sounds down to mono" />
+    <MESSAGE value="Increased volume of sun pulse sounds" />
+    <option name="LAST_COMMIT_MESSAGE" value="Increased volume of sun pulse sounds" />
   </component>
 </project>

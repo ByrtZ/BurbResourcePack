@@ -549,5 +549,27 @@
 				"name": "game/burb.game.death_stats"
 			}
 		]
+	},
+	"burb.generic.level_up.plants": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.level_up.plants"
+			}
+		]
+	},
+	"burb.generic.level_up.zombies": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.level_up.zombies"
+			}
+		]
+	},
+	"burb.game.loading_melody": {
+		"sounds": [
+			{
+				"name": "game/burb.game.loading_melody",
+				"stream": true
+			}
+		]
 	}
 }
