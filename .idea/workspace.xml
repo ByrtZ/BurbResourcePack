@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Add more goobers">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2025_19_46_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2025_19_46_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2025_19_46__Changes_.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+    &quot;associatedIndex&quot;: 4
+    }</component>
+  <component name="ProjectId" id="2miaSZMOGG2B6PZtsv5XO0fjUbV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+    &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+    }
+    }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\models\item\deprecated" />
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\gui\sprites" />
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\burb\textures\font" />
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\model" />
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\block" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Added blaster sounds and temporarily removed blaster model and texture." />
+      <created>1727561850482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727561850482</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Adjust game status font">
+      <option name="closed" value="true" />
+      <created>1730733985572</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1730733985572</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Adjust game status background font and add no text shadow shaders">
+      <option name="closed" value="true" />
+      <created>1730846154402</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730846154402</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Adjust game status background font and add better glowing shaders">
+      <option name="closed" value="true" />
+      <created>1730847048678</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1730847048678</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Adjust game status background character">
+      <option name="closed" value="true" />
+      <created>1730849416966</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1730849416966</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adjust game status background character">
+      <option name="closed" value="true" />
+      <created>1730849857321</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1730849857321</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Adjust game status background character">
+      <option name="closed" value="true" />
+      <created>1730850242302</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1730850242302</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Adjust game status background character">
+      <option name="closed" value="true" />
+      <created>1730850669950</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1730850669950</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Modify pumpkinblur.png and add negative spacing data pack">
+      <option name="closed" value="true" />
+      <created>1730900001206</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1730900001206</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Attempt fix negative space font">
+      <option name="closed" value="true" />
+      <created>1730901226378</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1730901226378</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Test asset">
+      <option name="closed" value="true" />
+      <created>1732374725956</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1732374725956</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Move nerd emoji to echo shards">
+      <option name="closed" value="true" />
+      <created>1736599273401</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1736599273401</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add general music tracks">
+      <option name="closed" value="true" />
+      <created>1738759530658</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1738759530658</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Refactor pack to use underscore naming conventions and removed unnecessary textures.">
+      <option name="closed" value="true" />
+      <created>1738760172037</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1738760172037</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Refactor pack to use underscore naming conventions and removed unnecessary textures.">
+      <option name="closed" value="true" />
+      <created>1739722966413</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1739722966413</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Add chilli bean bomb sounds">
+      <option name="closed" value="true" />
+      <created>1739724142769</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1739724142769</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Assign chilli bean bomb to an item">
+      <option name="closed" value="true" />
+      <created>1739909210696</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1739909210696</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Edited font">
+      <option name="closed" value="true" />
+      <created>1741878704489</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1741878704489</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Edited font">
+      <option name="closed" value="true" />
+      <created>1741883316313</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1741883316313</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Yet another giga sound adding session">
+      <option name="closed" value="true" />
+      <created>1741970682162</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1741970682162</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added blank hunger sprites and language file">
+      <option name="closed" value="true" />
+      <created>1742247929726</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1742247929726</updated>
+    </task>
+    <task id="LOCAL-00045" summary="More invisible sprites and GB lang file">
+      <option name="closed" value="true" />
+      <created>1742248198894</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1742248198894</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Added more weapon sounds and made foot soldier weapon sounds mono instead of stereo">
+      <option name="closed" value="true" />
+      <created>1742487511214</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1742487511214</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Merged overtime tracks into one sound id">
+      <option name="closed" value="true" />
+      <created>1742487823003</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1742487823003</updated>
+    </task>
+    <task id="LOCAL-00048" summary="More ability sounds and refactored namespacing for character sounds">
+      <option name="closed" value="true" />
+      <created>1742996754505</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1742996754505</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Added random music IDs">
+      <option name="closed" value="true" />
+      <created>1742998166711</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1742998166711</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Fix typos">
+      <option name="closed" value="true" />
+      <created>1742999634839</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1742999634840</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Mixed ZPG trigger sound to mono">
+      <option name="closed" value="true" />
+      <created>1743009804783</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1743009804783</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Attempt fix Masky">
+      <option name="closed" value="true" />
+      <created>1743173786237</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1743173786237</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Bump version to support 1.21.4">
+      <option name="closed" value="true" />
+      <created>1744130777017</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1744130777017</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Attempt update glowing">
+      <option name="closed" value="true" />
+      <created>1744131558532</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1744131558532</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Temporarily disable alternative glowing">
+      <option name="closed" value="true" />
+      <created>1744131748223</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1744131748223</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Test new item model system">
+      <option name="closed" value="true" />
+      <created>1744142199266</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1744142199266</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Converted models to new item system and deprecated the old system">
+      <option name="closed" value="true" />
+      <created>1744143325003</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1744143325003</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Added Pea Gatling sounds">
+      <option name="closed" value="true" />
+      <created>1744279532588</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1744279532588</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Make dust particles more uniform">
+      <option name="closed" value="true" />
+      <created>1744284690983</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1744284690983</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Funny icons">
+      <option name="closed" value="true" />
+      <created>1750676820612</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1750676820612</updated>
+    </task>
+    <task id="LOCAL-00061" summary="Bump pack format">
+      <option name="closed" value="true" />
+      <created>1756853372178</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1756853372178</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Temporarily disable text shaders">
+      <option name="closed" value="true" />
+      <created>1756853719193</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1756853719193</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Updated smoother glowing">
+      <option name="closed" value="true" />
+      <created>1757674976911</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1757674976911</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Update burb font">
+      <option name="closed" value="true" />
+      <created>1757685075266</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1757685075266</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Update burb font">
+      <option name="closed" value="true" />
+      <created>1757685315399</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1757685315399</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Update font">
+      <option name="closed" value="true" />
+      <created>1757685506655</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1757685506655</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Update font">
+      <option name="closed" value="true" />
+      <created>1757955667717</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1757955667718</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Update font">
+      <option name="closed" value="true" />
+      <created>1758041226709</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1758041226709</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Register potato mine">
+      <option name="closed" value="true" />
+      <created>1759142508565</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1759142508565</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Mix sun pulse sounds down to mono">
+      <option name="closed" value="true" />
+      <created>1759152644763</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1759152644763</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Increased volume of sun pulse sounds">
+      <option name="closed" value="true" />
+      <created>1759153022974</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1759153022974</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Increased volume of sun pulse sounds">
+      <option name="closed" value="true" />
+      <created>1759153032066</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1759153032066</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Add level up sounds and loading melody">
+      <option name="closed" value="true" />
+      <created>1759154598575</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1759154598575</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added more weapon sounds and made foot soldier weapon sounds mono instead of stereo" />
+    <MESSAGE value="Merged overtime tracks into one sound id" />
+    <MESSAGE value="More ability sounds and refactored namespacing for character sounds" />
+    <MESSAGE value="Added random music IDs" />
+    <MESSAGE value="Fix typos" />
+    <MESSAGE value="Mixed ZPG trigger sound to mono" />
+    <MESSAGE value="Attempt fix Masky" />
+    <MESSAGE value="Bump version to support 1.21.4" />
+    <MESSAGE value="Attempt update glowing" />
+    <MESSAGE value="Temporarily disable alternative glowing" />
+    <MESSAGE value="Test new item model system" />
+    <MESSAGE value="Converted models to new item system and deprecated the old system" />
+    <MESSAGE value="Added Pea Gatling sounds" />
+    <MESSAGE value="Make dust particles more uniform" />
+    <MESSAGE value="Funny icons" />
+    <MESSAGE value="Bump pack format" />
+    <MESSAGE value="Temporarily disable text shaders" />
+    <MESSAGE value="Updated smoother glowing" />
+    <MESSAGE value="Update burb font" />
+    <MESSAGE value="Update font" />
+    <MESSAGE value="Register potato mine" />
+    <MESSAGE value="Mix sun pulse sounds down to mono" />
+    <MESSAGE value="Increased volume of sun pulse sounds" />
+    <MESSAGE value="Add level up sounds and loading melody" />
+    <MESSAGE value="Add more goobers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add more goobers" />
+  </component>
+</project>
