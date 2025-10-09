@@ -2,9 +2,9 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "burb:font_lower/burb_font.png",
-      "ascent": 8,
-      "height": -2,
+      "file": "burb:font/burb_font.png",
+      "ascent": -2,
+      "height": 8,
       "chars": [
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
