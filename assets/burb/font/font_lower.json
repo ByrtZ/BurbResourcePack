@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "burb:font_lower/burb_font.png",
-      "ascent": -2,
-      "height": 8,
+      "ascent": 8,
+      "height": -2,
       "chars": [
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
