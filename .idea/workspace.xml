@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Add more goobers">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2025_19_46_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2025_19_46_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_08_10_2025_19_46__Changes_.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,14 +48,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Adjust game status font">
-      <option name="closed" value="true" />
-      <created>1730733985572</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1730733985572</updated>
     </task>
     <task id="LOCAL-00026" summary="Adjust game status background font and add no text shadow shaders">
       <option name="closed" value="true" />
@@ -445,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759154598575</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Silly stupid file won't go away">
+      <option name="closed" value="true" />
+      <created>1759949462388</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1759949462388</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,7 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added more weapon sounds and made foot soldier weapon sounds mono instead of stereo" />
     <MESSAGE value="Merged overtime tracks into one sound id" />
     <MESSAGE value="More ability sounds and refactored namespacing for character sounds" />
     <MESSAGE value="Added random music IDs" />
@@ -505,6 +500,7 @@
     <MESSAGE value="Increased volume of sun pulse sounds" />
     <MESSAGE value="Add level up sounds and loading melody" />
     <MESSAGE value="Add more goobers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more goobers" />
+    <MESSAGE value="Silly stupid file won't go away" />
+    <option name="LAST_COMMIT_MESSAGE" value="Silly stupid file won't go away" />
   </component>
 </project>
