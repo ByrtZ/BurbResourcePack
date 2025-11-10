@@ -176,6 +176,20 @@
 			"chars":["\uF013"]
 		},
 		{
+			"type":"bitmap",
+			"file":"font/type_accessory.png",
+			"ascent":9,
+			"height":9,
+			"chars":["\uF014"]
+		},
+		{
+			"type":"bitmap",
+			"file":"font/type_hat.png",
+			"ascent":9,
+			"height":9,
+			"chars":["\uF015"]
+		},
+		{
 			"type": "bitmap",
 			"file": "space:font/splitter.png",
 			"ascent": -9999,
