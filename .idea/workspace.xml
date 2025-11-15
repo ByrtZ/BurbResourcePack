@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Register new cosmetics" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Disable unfinished cosmetics" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,14 +24,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/tiddy/IdeaProjects/BurbResourcePack/assets/minecraft/items"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tiddy/IdeaProjects/BurbResourcePack/assets/minecraft/items&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\items" />
@@ -53,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Add general music tracks">
-      <option name="closed" value="true" />
-      <created>1738759530658</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1738759530658</updated>
     </task>
     <task id="LOCAL-00037" summary="Refactor pack to use underscore naming conventions and removed unnecessary textures.">
       <option name="closed" value="true" />
@@ -446,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763226473745</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Disable unfinished cosmetics">
+      <option name="closed" value="true" />
+      <created>1763226737752</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1763226737752</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Attempt fix Masky" />
     <MESSAGE value="Bump version to support 1.21.4" />
     <MESSAGE value="Attempt update glowing" />
     <MESSAGE value="Temporarily disable alternative glowing" />
@@ -506,6 +505,7 @@
     <MESSAGE value="Add cosmetic type glyphs" />
     <MESSAGE value="Fix emoji heads" />
     <MESSAGE value="Register new cosmetics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Register new cosmetics" />
+    <MESSAGE value="Disable unfinished cosmetics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Disable unfinished cosmetics" />
   </component>
 </project>
