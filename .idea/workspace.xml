@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Add cosmetic type glyphs" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Fix emoji heads">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/minecraft/models/item/thinking_emoji.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/minecraft/models/item/thinking_emoji.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,16 +27,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tiddy/IdeaProjects/BurbResourcePack/assets/burb/font&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tiddy/IdeaProjects/BurbResourcePack/assets/minecraft/items"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\items" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\burb\font" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -52,14 +56,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Test asset">
-      <option name="closed" value="true" />
-      <created>1732374725956</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1732374725956</updated>
     </task>
     <task id="LOCAL-00035" summary="Move nerd emoji to echo shards">
       <option name="closed" value="true" />
@@ -445,7 +441,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762780892126</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Fix emoji heads">
+      <option name="closed" value="true" />
+      <created>1762782562179</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1762782562179</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -480,7 +484,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fix typos" />
     <MESSAGE value="Mixed ZPG trigger sound to mono" />
     <MESSAGE value="Attempt fix Masky" />
     <MESSAGE value="Bump version to support 1.21.4" />
@@ -505,6 +508,7 @@
     <MESSAGE value="Added experimental fonts" />
     <MESSAGE value="Attempt fix smoother glowing" />
     <MESSAGE value="Add cosmetic type glyphs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add cosmetic type glyphs" />
+    <MESSAGE value="Fix emoji heads" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix emoji heads" />
   </component>
 </project>
