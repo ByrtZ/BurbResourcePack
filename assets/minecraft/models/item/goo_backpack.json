@@ -507,16 +507,18 @@
 			"translation": [0, 8, 0]
 		},
 		"gui": {
-			"rotation": [25.51, -37.46, 0],
-			"translation": [-0.75, 3.25, 0]
+			"rotation": [19, 34, 0],
+			"translation": [0.5, 3, 0],
+			"scale": [0.92, 0.92, 0.92]
 		},
 		"head": {
 			"translation": [0.25, -9.25, 7],
 			"scale": [1.43, 1.43, 1.43]
 		},
 		"fixed": {
-			"translation": [0, 4.25, 0],
-			"scale": [1.52, 1.52, 1.52]
+			"rotation": [0, -180, 0],
+			"translation": [0, 4.25, -3.25],
+			"scale": [1.09, 1.09, 1.09]
 		}
 	},
 	"groups": [

@@ -150,5 +150,10 @@
 				"down": {"uv": [0, 0, 0, 1], "texture": "#0"}
 			}
 		}
-	]
+	],
+	"display": {
+		"head": {
+			"translation": [0, 1, 2]
+		}
+	}
 }
