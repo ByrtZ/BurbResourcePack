@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Disable unfinished cosmetics" />
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Fix thinking emoji" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,14 +53,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Refactor pack to use underscore naming conventions and removed unnecessary textures.">
-      <option name="closed" value="true" />
-      <created>1738760172037</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1738760172037</updated>
     </task>
     <task id="LOCAL-00038" summary="Refactor pack to use underscore naming conventions and removed unnecessary textures.">
       <option name="closed" value="true" />
@@ -446,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763226737752</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Fix thinking emoji">
+      <option name="closed" value="true" />
+      <created>1763226877586</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1763226877586</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -481,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Bump version to support 1.21.4" />
     <MESSAGE value="Attempt update glowing" />
     <MESSAGE value="Temporarily disable alternative glowing" />
     <MESSAGE value="Test new item model system" />
@@ -506,6 +505,7 @@
     <MESSAGE value="Fix emoji heads" />
     <MESSAGE value="Register new cosmetics" />
     <MESSAGE value="Disable unfinished cosmetics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Disable unfinished cosmetics" />
+    <MESSAGE value="Fix thinking emoji" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix thinking emoji" />
   </component>
 </project>
