@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [256, 256],
 	"textures": {
-		"0": "block/crazy_dave",
-		"particle": "block/crazy_dave"
+		"0": "item/crazy_dave",
+		"particle": "item/crazy_dave"
 	},
 	"elements": [
 		{
@@ -305,8 +305,40 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 118, 0],
+			"translation": [0, 3.25, 0],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 120, 0],
+			"translation": [0, 3.25, 0],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"ground": {
+			"translation": [0, 6.5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [19, -153, 0],
+			"translation": [-1.25, -0.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
 		"head": {
 			"translation": [0, 0, -1.5]
+		},
+		"fixed": {
+			"scale": [0.51, 0.51, 0.51]
+		},
+		"on_shelf": {
+			"rotation": [0, -153, 0],
+			"scale": [0.63, 0.63, 0.63]
 		}
 	},
 	"groups": [
