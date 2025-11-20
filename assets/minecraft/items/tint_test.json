@@ -1,9 +1,10 @@
-{
+{{
      "parent":"item/generated",
      "textures":{
           "layer0":"item/leather_horse_armor"
      },
      "overrides":[{
           "predicate":{
-               "custom_model_data": 1 }, "model":"custom/tint_test"
+               "custom_model_data": 1 }, "model":"item/tint_test"
           }]
+}
