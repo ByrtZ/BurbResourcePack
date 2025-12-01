@@ -571,5 +571,209 @@
 				"stream": true
 			}
 		]
+	},
+	"burb.game.event.treasure_high": {
+		"sounds": [
+			{
+				"name": "game/burb.game.event.treasure_high",
+				"stream": true
+			}
+		]
+	},
+	"burb.game.event.treasure_low": {
+		"sounds": [
+			{
+				"name": "game/burb.game.event.treasure_low",
+				"stream": true
+			}
+		]
+	},
+	"burb.game.event.treasure_intro": {
+		"sounds": [
+			{
+				"name": "game/burb.game.event.treasure_intro",
+				"stream": true
+			}
+		]
+	},
+	"burb.generic.complete": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.complete"
+			}
+		]
+	},
+	"burb.generic.treasure.small": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.treasure.small"
+			}
+		]
+	},
+	"burb.generic.treasure.medium": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.treasure.medium"
+			}
+		]
+	},
+	"burb.generic.treasure.large": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.treasure.large"
+			}
+		]
+	},
+	"burb.lobby.underworld": {
+		"sounds": [
+			{
+				"name": "lobby/burb.lobby.underworld",
+				"stream": true
+			}
+		]
+	},
+	"burb.lobby.underworld.challenge_intro": {
+		"sounds": [
+			{
+				"name": "lobby/burb.lobby.underworld.challenge_intro",
+				"stream": true
+			}
+		]
+	},
+	"burb.lobby.underworld.challenge.0": {
+		"sounds": [
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.0",
+				"stream": true
+			}
+		]
+	},
+	"burb.lobby.underworld.challenge.1": {
+		"sounds": [
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.1",
+				"stream": true
+			}
+		]
+	},
+	"burb.lobby.underworld.challenge.2": {
+		"sounds": [
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.2",
+				"stream": true
+			}
+		]
+	},
+	"burb.lobby.underworld.challenge.3": {
+		"sounds": [
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.3",
+				"stream": true
+			}
+		]
+	},
+	"burb.lobby.underworld.challenge.random": {
+		"sounds": [
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.0",
+				"stream": true
+			},
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.1",
+				"stream": true
+			},
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.2",
+				"stream": true
+			},
+			{
+				"name": "lobby/burb.lobby.underworld.challenge.3",
+				"stream": true
+			}
+		]
+	},
+	"burb.lobby.shop.back": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.back"
+		]
+	},
+	"burb.lobby.shop.enter": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.enter.0",
+			"lobby/shop/burb.lobby.shop.enter.1",
+			"lobby/shop/burb.lobby.shop.enter.2"
+		]
+	},
+	"burb.lobby.shop.exit": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.exit.0",
+			"lobby/shop/burb.lobby.shop.exit.1",
+			"lobby/shop/burb.lobby.shop.exit.2"
+		]
+	},
+	"burb.lobby.shop.open_pack": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.open_pack.0",
+			"lobby/shop/burb.lobby.shop.open_pack.1",
+			"lobby/shop/burb.lobby.shop.open_pack.2"
+		]
+	},
+	"burb.lobby.shop.pack_jingle": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.pack_jingle.0",
+			"lobby/shop/burb.lobby.shop.pack_jingle.1",
+			"lobby/shop/burb.lobby.shop.pack_jingle.2",
+			"lobby/shop/burb.lobby.shop.pack_jingle.3",
+			"lobby/shop/burb.lobby.shop.pack_jingle.4",
+			"lobby/shop/burb.lobby.shop.pack_jingle.5",
+			"lobby/shop/burb.lobby.shop.pack_jingle.6",
+			"lobby/shop/burb.lobby.shop.pack_jingle.7",
+			"lobby/shop/burb.lobby.shop.pack_jingle.8",
+			"lobby/shop/burb.lobby.shop.pack_jingle.9",
+			"lobby/shop/burb.lobby.shop.pack_jingle.10",
+			"lobby/shop/burb.lobby.shop.pack_jingle.11",
+			"lobby/shop/burb.lobby.shop.pack_jingle.12",
+			"lobby/shop/burb.lobby.shop.pack_jingle.13",
+			"lobby/shop/burb.lobby.shop.pack_jingle.14",
+			"lobby/shop/burb.lobby.shop.pack_jingle.15",
+			"lobby/shop/burb.lobby.shop.pack_jingle.16"
+		]
+	},
+	"burb.lobby.shop.reveal_card": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.reveal_card.0",
+			"lobby/shop/burb.lobby.shop.reveal_card.1",
+			"lobby/shop/burb.lobby.shop.reveal_card.2",
+			"lobby/shop/burb.lobby.shop.reveal_card.3",
+			"lobby/shop/burb.lobby.shop.reveal_card.4",
+			"lobby/shop/burb.lobby.shop.reveal_card.5",
+			"lobby/shop/burb.lobby.shop.reveal_card.6"
+		]
+	},
+	"burb.lobby.shop.view_card": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.view_card.0",
+			"lobby/shop/burb.lobby.shop.view_card.1",
+			"lobby/shop/burb.lobby.shop.view_card.2"
+		]
+	},
+	"burb.lobby.shop.view_pack": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.view_pack.0",
+			"lobby/shop/burb.lobby.shop.view_pack.1",
+			"lobby/shop/burb.lobby.shop.view_pack.2",
+			"lobby/shop/burb.lobby.shop.view_pack.3",
+			"lobby/shop/burb.lobby.shop.view_pack.4"
+		]
+	},
+	"burb.lobby.shop.purchase": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.purchase"
+		]
+	},
+	"burb.lobby.shop.purchase_coins": {
+		"sounds": [
+			"lobby/shop/burb.lobby.shop.purchase_coins"
+		]
 	}
 }
