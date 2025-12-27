@@ -596,6 +596,13 @@
 			}
 		]
 	},
+	"burb.game.event.vanquish_showdown.team_wipe": {
+		"sounds": [
+			{
+				"name": "game/burb.game.event.vanquish_showdown.team_wipe"
+			}
+		]
+	},
 	"burb.generic.complete": {
 		"sounds": [
 			{
