@@ -21,7 +21,6 @@ jobs:
           options: |
             pack_directory = '.'
             output_file_path = '/tmp/Burb.zip'
-            shader_source_transformation_strategy = 'keep_as_is'
       - name: Calculate SHA1
         run: |
           echo "PACK_SHA1=$(sha1sum /tmp/Burb.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
