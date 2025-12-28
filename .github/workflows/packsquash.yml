@@ -21,12 +21,10 @@ jobs:
           options: |
             pack_directory = '.'
             output_file_path = '/tmp/Burb.zip'
-            [files]
-            include = [
-              "assets/**/shaders/**"
-            ]
-            [text]
-            extensions = ["fsh", "vsh", "glsl"]
+            
+            [[custom]]
+            glob = "assets/**/shaders/**"
+            force_include = true
       - name: Calculate SHA1
         run: |
           echo "PACK_SHA1=$(sha1sum /tmp/Burb.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
