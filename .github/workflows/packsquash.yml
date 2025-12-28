@@ -25,6 +25,7 @@ jobs:
             allow_mods = ['OptiFine']
             
             ['**/*?.{fsh,vsh,glsl}']
+            force_include = true
             shader_source_transformation_strategy = 'keep_as_is'
       - name: Calculate SHA1
         run: |
