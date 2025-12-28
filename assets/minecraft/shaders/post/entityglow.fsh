@@ -1,4 +1,4 @@
-#version 330
+#version 150
 
 // radius of the glow
 #define Radius 3
@@ -7,23 +7,14 @@
 #define FinalAlpha 0.1
 
 
-layout(std140) uniform SamplerInfo {
-  vec2 OutSize;
-  vec2 InSize;
-};
-
-layout(std140) uniform BlurConfig {
-  vec2 BlurDir;
-};
-
 uniform sampler2D InSampler;
 uniform sampler2D Sampler2;
 
 in vec2 texCoord;
+in vec2 sampleStep;
 
 out vec4 fragColor;
 
-vec2 sampleStep = 1 / InSize * BlurDir;
 float gradient = 1.0 / (Radius + 1.0);
 bool isFinal = sampleStep.y != 0;
 float finalAlpha = isFinal ? FinalAlpha : 1.0;
