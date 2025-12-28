@@ -19,6 +19,7 @@ jobs:
         with:
           packsquash_version: latest
           options: |
+            pack_directory = '.'
             output_file_path = '/tmp/Burb.zip'
             ['**/*?.{fsh,vsh,glsl}']
             shader_source_transformation_strategy = 'keep_as_is'
