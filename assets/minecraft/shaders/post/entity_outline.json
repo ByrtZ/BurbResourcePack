@@ -1,0 +1,44 @@
+{
+  "vertex": "minecraft:post/sobel",
+  "fragment": "minecraft:post/entity_sobel",
+  "samplers": [
+    { "name": "InSampler" }
+  ],
+  "uniforms": [
+    { "name": "ProjMat", "type": "matrix4x4", "count": 16, "values": [ 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 1.0 ] },
+    { "name": "InSize",  "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] },
+    { "name": "OutSize", "type": "float",     "count": 2,  "values": [ 1.0, 1.0 ] }
+  ],
+  "__comment": [
+    "dummy data above are for compatibility between pre 1.21.2 and 1.21.2+.",
+    "somehow works without it during test, but too afraid to just get rid of it."
+  ],
+  "targets": [
+    "swap",
+    "final"
+  ],
+  "passes": [
+    {
+      "name": "entityglow",
+      "intarget": "final",
+      "outtarget": "swap",
+      "uniforms": [
+        {
+          "name": "BlurDir",
+          "values": [ 1.0, 0.0 ]
+        }
+      ]
+    },
+    {
+      "name": "entityglow",
+      "intarget": "swap",
+      "outtarget": "final",
+      "uniforms": [
+        {
+          "name": "BlurDir",
+          "values": [ 0.0, 1.0 ]
+        }
+      ]
+    }
+  ]
+}
