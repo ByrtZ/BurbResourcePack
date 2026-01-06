@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Add profile item">
+    <list default="true" id="9f361065-a613-4f5d-aadd-6e3e4fe90be5" name="Changes" comment="Add higher rarities, sub rarities and fish tag">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,37 +15,59 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ByrtZ"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ByrtZ/BurbResourcePack",
+    "accountId": "5782ea27-ac0e-481f-a8af-4265003c63e6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
     &quot;associatedIndex&quot;: 4
     }</component>
   <component name="ProjectId" id="2miaSZMOGG2B6PZtsv5XO0fjUbV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/tiddy/IdeaProjects/BurbResourcePack/assets/minecraft/items&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tiddy/IdeaProjects/BurbResourcePack/assets/minecraft",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\items" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\burb\font" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\sounds\game" />
+      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\gui\sprites\hud" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\models\item\deprecated" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\gui\sprites" />
       <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\burb\textures\font" />
-      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\model" />
-      <recent name="C:\Users\tiddy\IdeaProjects\BurbResourcePack\assets\minecraft\textures\block" />
     </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.138" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -55,86 +77,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727561850482</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Add chilli bean bomb sounds">
-      <option name="closed" value="true" />
-      <created>1739724142769</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1739724142769</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Assign chilli bean bomb to an item">
-      <option name="closed" value="true" />
-      <created>1739909210696</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1739909210696</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Edited font">
-      <option name="closed" value="true" />
-      <created>1741878704489</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1741878704489</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Edited font">
-      <option name="closed" value="true" />
-      <created>1741883316313</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1741883316313</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Yet another giga sound adding session">
-      <option name="closed" value="true" />
-      <created>1741970682162</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1741970682162</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Added blank hunger sprites and language file">
-      <option name="closed" value="true" />
-      <created>1742247929726</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1742247929726</updated>
-    </task>
-    <task id="LOCAL-00045" summary="More invisible sprites and GB lang file">
-      <option name="closed" value="true" />
-      <created>1742248198894</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1742248198894</updated>
-    </task>
-    <task id="LOCAL-00046" summary="Added more weapon sounds and made foot soldier weapon sounds mono instead of stereo">
-      <option name="closed" value="true" />
-      <created>1742487511214</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1742487511214</updated>
-    </task>
-    <task id="LOCAL-00047" summary="Merged overtime tracks into one sound id">
-      <option name="closed" value="true" />
-      <created>1742487823003</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1742487823003</updated>
-    </task>
-    <task id="LOCAL-00048" summary="More ability sounds and refactored namespacing for character sounds">
-      <option name="closed" value="true" />
-      <created>1742996754505</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1742996754505</updated>
     </task>
     <task id="LOCAL-00049" summary="Added random music IDs">
       <option name="closed" value="true" />
@@ -448,7 +390,87 @@
       <option name="project" value="LOCAL" />
       <updated>1763403296702</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Register crazy dave">
+      <option name="closed" value="true" />
+      <created>1763577350811</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1763577350811</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Add experience bar textures">
+      <option name="closed" value="true" />
+      <created>1763985250774</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1763985250774</updated>
+    </task>
+    <task id="LOCAL-00090" summary="LET THERE BE SOUND">
+      <option name="closed" value="true" />
+      <created>1764596885343</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1764596885343</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Add team wipe sound">
+      <option name="closed" value="true" />
+      <created>1766869805832</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1766869805833</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Bump pack format">
+      <option name="closed" value="true" />
+      <created>1766919344855</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1766919344855</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Attempt fix glowing shader">
+      <option name="closed" value="true" />
+      <created>1766920063578</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1766920063578</updated>
+    </task>
+    <task id="LOCAL-00094" summary="I don't understand shaders">
+      <option name="closed" value="true" />
+      <created>1766920321209</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1766920321209</updated>
+    </task>
+    <task id="LOCAL-00095" summary="This works locally but not in this pack, minecraft eludes me">
+      <option name="closed" value="true" />
+      <created>1766920798170</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1766920798171</updated>
+    </task>
+    <task id="LOCAL-00096" summary="pls work omg">
+      <option name="closed" value="true" />
+      <created>1766921317619</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1766921317619</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Add higher rarities, sub rarities and fish tag">
+      <option name="closed" value="true" />
+      <created>1767707836625</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1767707836625</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -483,16 +505,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Temporarily disable alternative glowing" />
-    <MESSAGE value="Test new item model system" />
-    <MESSAGE value="Converted models to new item system and deprecated the old system" />
-    <MESSAGE value="Added Pea Gatling sounds" />
-    <MESSAGE value="Make dust particles more uniform" />
-    <MESSAGE value="Funny icons" />
-    <MESSAGE value="Bump pack format" />
-    <MESSAGE value="Temporarily disable text shaders" />
-    <MESSAGE value="Updated smoother glowing" />
-    <MESSAGE value="Update burb font" />
     <MESSAGE value="Update font" />
     <MESSAGE value="Register potato mine" />
     <MESSAGE value="Mix sun pulse sounds down to mono" />
@@ -508,6 +520,16 @@
     <MESSAGE value="Disable unfinished cosmetics" />
     <MESSAGE value="Fix thinking emoji" />
     <MESSAGE value="Add profile item" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add profile item" />
+    <MESSAGE value="Register crazy dave" />
+    <MESSAGE value="Add experience bar textures" />
+    <MESSAGE value="LET THERE BE SOUND" />
+    <MESSAGE value="Add team wipe sound" />
+    <MESSAGE value="Bump pack format" />
+    <MESSAGE value="Attempt fix glowing shader" />
+    <MESSAGE value="I don't understand shaders" />
+    <MESSAGE value="This works locally but not in this pack, minecraft eludes me" />
+    <MESSAGE value="pls work omg" />
+    <MESSAGE value="Add higher rarities, sub rarities and fish tag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add higher rarities, sub rarities and fish tag" />
   </component>
 </project>
