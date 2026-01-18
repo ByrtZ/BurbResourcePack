@@ -1,11 +1,9 @@
-name: Build and release pack
+name: Build pack
 on:
   push:
-    branches:
-      - master
 jobs:
   build:
-    name: Build and release pack
+    name: Build pack
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -24,6 +22,7 @@ jobs:
           chmod +x /usr/local/bin/packsquash
           echo "PACK_SHA1=$(sha1sum build/packsquash/Burb.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
       - name: Tag and create release
+        if: github.ref == 'refs/heads/master'
         uses: softprops/action-gh-release@v2
         with:
           description: "SHA1: ${{ env.PACK_SHA1 }}"
