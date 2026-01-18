@@ -27,10 +27,15 @@ jobs:
         with:
           name: Burb.zip
           path: build/packsquash/Burb.zip
-      - name: Tag and create release
-        if: github.ref == 'refs/heads/master'
-        uses: softprops/action-gh-release@v2
-        with:
-          description: "SHA1: ${{ env.PACK_SHA1 }}"
-          tag_name: master-v${{ github.run_number }}
-          files: build/packsquash/Burb.zip
+      - name: Setup MinIO client
+        uses: yakubique/setup-minio-cli@v1
+      - name: Upload to CDN
+        run: |
+          mc alias set cdn ${{ secrets.CDN_S3_URL }} ${{ secrets.CDN_ACCESS_KEY }} ${{ secrets.CDN_SECRET_KEY }}
+          mc put cdn/resource-packs/burb/packs/${{ env.PACK_SHA1 }}.zip build/packsquash/Burb.zip
+          mc pipe cdn/resource-packs/burb/meta/${{ github.ref_name }}.json << EOF
+          {
+            "packHash": "${{ env.PACK_SHA1 }}",
+            "commitId": "${{ github.sha }}"
+          }
+          EOF
