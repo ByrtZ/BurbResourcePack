@@ -20,6 +20,11 @@ jobs:
       - name: Calculate SHA1
         run: |
           echo "PACK_SHA1=$(sha1sum build/packsquash/Burb.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Burb.zip
+          path: build/packsquash/Burb.zip
       - name: Tag and create release
         if: github.ref == 'refs/heads/master'
         uses: softprops/action-gh-release@v2
