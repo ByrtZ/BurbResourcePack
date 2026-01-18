@@ -14,7 +14,7 @@ jobs:
         uses: gradle/actions/setup-gradle@v5
       - name: Build with Gradle
         run: |
-          curl -o packsquash.zip https://github.com/ComunidadAylas/PackSquash/releases/download/v0.4.1/packsquash-x86_64-unknown-linux-gnu.zip
+          curl -Lo packsquash.zip https://github.com/ComunidadAylas/PackSquash/releases/download/v0.4.1/packsquash-x86_64-unknown-linux-gnu.zip
           unzip packsquash.zip -d /usr/local/bin
           chmod +x /usr/local/bin/packsquash
           packsquash -v
