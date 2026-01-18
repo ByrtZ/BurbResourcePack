@@ -1,0 +1,7 @@
+pack_directory = 'build/packsquashWork'
+output_file_path = 'build/packsquash/Burb.zip'
+
+allow_mods = ['OptiFine']
+
+['**/*?.{fsh,vsh,glsl}']
+force_include = true
