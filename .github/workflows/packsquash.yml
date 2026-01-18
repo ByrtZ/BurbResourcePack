@@ -1,37 +1,31 @@
-name: Optimize resource pack
+name: Build and release pack
 on:
   push:
     branches:
       - master
 jobs:
-  packsquash:
-    name: Optimize resource pack
+  build:
+    name: Build and release pack
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
       - name: Clone repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # A non-shallow repository clone is required
-      - name: Run PackSquash
-        uses: ComunidadAylas/PackSquash-action@v4
-        with:
-          packsquash_version: latest
-          options: |
-            pack_directory = '.'
-            output_file_path = '/tmp/Burb.zip'
-            
-            allow_mods = ['OptiFine']
-            
-            ['**/*?.{fsh,vsh,glsl}']
-            force_include = true
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v5
+      - name: Build with Gradle
+        run: |
+          apt install -y packsquash
+          ./gradlew packsquash
       - name: Calculate SHA1
         run: |
-          echo "PACK_SHA1=$(sha1sum /tmp/Burb.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
+          curl -o /usr/local/bin/packsquash https://github.com/ComunidadAylas/PackSquash/releases/download/v0.4.1/packsquash-x86_64-unknown-linux-musl.zip
+          chmod +x /usr/local/bin/packsquash
+          echo "PACK_SHA1=$(sha1sum build/packsquash/Burb.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
       - name: Tag and create release
         uses: softprops/action-gh-release@v2
         with:
           description: "SHA1: ${{ env.PACK_SHA1 }}"
           tag_name: master-v${{ github.run_number }}
-          files: /tmp/Burb.zip
+          files: build/packsquash/Burb.zip
