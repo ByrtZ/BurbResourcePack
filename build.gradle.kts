@@ -2,8 +2,13 @@ plugins {
     id("me.lucyydotp.tinsel") version "0.2.2"
 }
 
-tinsel {
-    fonts.create("burb:font") {
+tinsel.fonts {
+    create("burb:font") {
+        offsets = setOf(8, 0, -2, -12)
+        addedBitmapSpacing = 12
+    }
+
+    create("tinsel:default") {
         offsets = setOf(8, 0, -2, -12)
         addedBitmapSpacing = 12
     }
