@@ -17,6 +17,8 @@ jobs:
           curl -o /usr/local/bin/packsquash https://github.com/ComunidadAylas/PackSquash/releases/download/v0.4.1/packsquash-x86_64-unknown-linux-musl.zip
           chmod +x /usr/local/bin/packsquash
           ./gradlew packsquash
+      - name: ls build
+        run: ls -R build
       - name: Calculate SHA1
         run: |
           echo "PACK_SHA1=$(sha1sum build/packsquash/Burb.zip | cut --delimiter " " --fields 1)" >> "$GITHUB_ENV"
