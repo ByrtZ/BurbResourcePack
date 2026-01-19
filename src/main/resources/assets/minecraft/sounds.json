@@ -603,6 +603,38 @@
 			}
 		]
 	},
+	"burb.game.event.vanquish_showdown": {
+		"sounds": [
+			{
+				"name": "game/burb.game.event.vanquish_showdown",
+				"stream": true
+			}
+		]
+	},
+	"burb.game.event.randos_revenge": {
+		"sounds": [
+			{
+				"name": "game/burb.game.event.randos_revenge.0",
+				"stream": true
+			},
+			{
+				"name": "game/burb.game.event.randos_revenge.1",
+				"stream": true
+			},
+			{
+				"name": "game/burb.game.event.randos_revenge.2",
+				"stream": true
+			},
+			{
+				"name": "game/burb.game.event.randos_revenge.3",
+				"stream": true
+			},
+			{
+				"name": "game/burb.game.event.randos_revenge.4",
+				"stream": true
+			}
+		]
+	},
 	"burb.generic.complete": {
 		"sounds": [
 			{
