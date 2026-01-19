@@ -603,6 +603,21 @@
 			}
 		]
 	},
+	"burb.game.event.vanquish_showdown.respawn": {
+		"sounds": [
+			{
+				"name": "game/burb.game.event.vanquish_showdown.respawn"
+			}
+		]
+	},
+	"burb.game.event.vanquish_showdown.post_respawn": {
+		"sounds": [
+			"game/burb.game.event.vanquish_showdown.post_respawn.0",
+			"game/burb.game.event.vanquish_showdown.post_respawn.1",
+			"game/burb.game.event.vanquish_showdown.post_respawn.2",
+			"game/burb.game.event.vanquish_showdown.post_respawn.3"
+		]
+	},
 	"burb.game.event.vanquish_showdown": {
 		"sounds": [
 			{
