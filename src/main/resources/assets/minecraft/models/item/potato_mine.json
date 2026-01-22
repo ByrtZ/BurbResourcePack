@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/potato_mine",
-		"particle": "item/potato_mine"
+		"1": "Downloads/potato_mine",
+		"particle": "Downloads/potato_mine"
 	},
 	"elements": [
 		{
@@ -351,7 +351,7 @@
 			"scale": [0.77, 0.77, 0.77]
 		},
 		"head": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0, 13.5, 0]
 		},
 		"fixed": {
