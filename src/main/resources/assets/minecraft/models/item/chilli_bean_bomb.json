@@ -4,8 +4,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "item/bean_bomb_outline",
-		"2": "Downloads/chilli_bean_bomb",
-		"particle": "Downloads/chilli_bean_bomb"
+		"2": "item/chilli_bean_bomb",
+		"particle": "item/chilli_bean_bomb"
 	},
 	"elements": [
 		{
