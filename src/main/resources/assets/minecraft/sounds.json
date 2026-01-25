@@ -561,14 +561,14 @@
 	"burb.game.win_generic.plants": {
 		"sounds": [
 			{
-				"name": "global/burb.game.win_generic.plants"
+				"name": "game/burb.game.win_generic.plants"
 			}
 		]
 	},
 	"burb.game.win_generic.zombies": {
 		"sounds": [
 			{
-				"name": "global/burb.game.win_generic.zombies"
+				"name": "game/burb.game.win_generic.zombies"
 			}
 		]
 	},
