@@ -550,6 +550,28 @@
 			}
 		]
 	},
+	"burb.generic.tense": {
+		"sounds": [
+			{
+				"name": "global/burb.generic.tense",
+				"stream": true
+			}
+		]
+	},
+	"burb.game.win_generic.plants": {
+		"sounds": [
+			{
+				"name": "global/burb.game.win_generic.plants"
+			}
+		]
+	},
+	"burb.game.win_generic.zombies": {
+		"sounds": [
+			{
+				"name": "global/burb.game.win_generic.zombies"
+			}
+		]
+	},
 	"burb.generic.level_up.plants": {
 		"sounds": [
 			{
