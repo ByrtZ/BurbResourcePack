@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/heisenberg_hat",
-		"particle": "block/heisenberg_hat"
+		"0": "item/heisenberg_hat",
+		"particle": "item/heisenberg_hat"
 	},
 	"elements": [
 		{
@@ -93,8 +93,8 @@
 			"scale": [0.84, 0.84, 0.84]
 		},
 		"head": {
-			"translation": [0, -0.75, 0],
-			"scale": [1.34, 1.34, 1.34]
+			"translation": [0, -1.75, 0],
+			"scale": [1.47, 1.47, 1.47]
 		}
 	}
 }
