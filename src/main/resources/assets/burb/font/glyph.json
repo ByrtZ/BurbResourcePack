@@ -30,9 +30,23 @@
     },
     {
       "type":"bitmap",
+      "file":"burb:font/team_plants.png",
+      "ascent":9,
+      "height":9,
+      "chars":["\uD012"]
+    },
+    {
+      "type":"bitmap",
+      "file":"burb:font/team_zombies.png",
+      "ascent":9,
+      "height":9,
+      "chars":["\uD013"]
+    },
+    {
+      "type":"bitmap",
       "file":"burb:font/admin.png",
-      "ascent":7,
-      "height":7,
+      "ascent":9,
+      "height":9,
       "chars":["\uD002"]
     },
     {
