@@ -45,7 +45,7 @@
     {
       "type":"bitmap",
       "file":"burb:font/admin.png",
-      "ascent":7,
+      "ascent":8,
       "height":9,
       "chars":["\uD002"]
     },
