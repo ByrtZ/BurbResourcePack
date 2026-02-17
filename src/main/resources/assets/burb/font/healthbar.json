@@ -5,7 +5,7 @@
       "file": "burb:font/healthbar/frame.png",
       "chars": ["\uE000"],
       "height": 9,
-      "ascent": 9
+      "ascent": 8
     },
     {
       "type": "bitmap",
