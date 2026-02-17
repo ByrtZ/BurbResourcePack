@@ -31,14 +31,14 @@
     {
       "type":"bitmap",
       "file":"burb:font/team_plants.png",
-      "ascent":9,
+      "ascent":8,
       "height":9,
       "chars":["\uD012"]
     },
     {
       "type":"bitmap",
       "file":"burb:font/team_zombies.png",
-      "ascent":9,
+      "ascent":8,
       "height":9,
       "chars":["\uD013"]
     },
