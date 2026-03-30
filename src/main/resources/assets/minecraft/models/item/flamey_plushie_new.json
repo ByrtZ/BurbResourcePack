@@ -3,9 +3,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/flameyHead",
-		"1": "item/flameyBody",
-		"particle": "item/flameyHead"
+		"0": "item/flamey_head",
+		"1": "item/flamey_body",
+		"particle": "item/flamey_head"
 	},
 	"elements": [
 		{
